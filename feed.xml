@@ -6,23 +6,26 @@
     <description>Games found and reviewed by Viv Slakes.</description>
 
     <item>
-      <guid>Tales of Monsterland DX</guid>
-      <title>Tales of Monsterland DX</title>
-      <link>https://www.joeljgames.co.uk/games/tales-of-monsterland-dx/</link>
-      <dc:creator>Joel J Games</dc:creator>
+      <guid>In The Dark 2</guid>
+      <title>In The Dark 2</title>
+      <link>https://modretro.com/products/in-the-dark-2</link>
+      <dc:creator>Gumpy Function, Pearacidic Games</dc:creator>
       <description><![CDATA[
-        <p>Save a village besieged by monsters by uncovering their origin. Run, jump, and battle through a magical world while gaining new abilities. Inspired by classic 8-bit platformers, it’s a fast-paced adventure with charm and challenge.</p>
+        <p>A deadly virus is corrupting the Federation’s neural network, threatening to isolate the galaxy. As Captain Ikalo Pann, follow cryptic clues, solve intricate puzzles, and explore alien worlds to stop the spread and uncover a deep sci-fi mystery.</p>
         <h2>Players</h2>
         <p class="players">Single Player</p>
         <h2>Platforms</h2>
         <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy</li>
           <li>Game Boy Color</li>
           <li>ModRetro Chromatic</li>
-          <li>Analogue Pocket</li>
         </ul>
         <h2>Genres</h2>
         <ul class="genres">
-          <li>Platformer</li>
+          <li>Adventure</li>
+          <li>Puzzle</li>
+          <li>Sci-Fi</li>
         </ul>
         <h2>Languages</h2>
         <ul class="languages">
@@ -37,9 +40,45 @@
     </item>
 
     <item>
+      <guid>In The Dark</guid>
+      <title>In The Dark</title>
+      <link>https://pearacidic.itch.io/in-the-dark</link>
+      <dc:creator>Pearacidic Games</dc:creator>
+      <description><![CDATA[
+        <p>It was a simple mission: Investigate an unidentified distress signal from a cruiser-class ship orbiting a barren planet in the Rigel system. Ikalo Pann, the Captain of the Star Leviathan, navigated through the debris surrounding the derelict ship until it was within scanner range. A scan of the ship pinged with no purchase for organics, life support systems were still functional, but losing power.
+
+With no signs of life coming from the vessel, they feared the worst but proceeded to dock with the airlock and climb aboard. Upon entering the main deck, they noticed the warped sound of a klaxon going off, echoing down the halls. Ikalo signaled to her crew to follow her further into the ship towards the living quarters. As they entered the next room, the warning alarm suddenly stopped and the doors behind them shut tight, followed by the grinding gears of a locking mechanism.
+
+The display on a monitor in the middle of the room came to life, a cursor pulsed rhythmically, illuminating the Captain's surroundings with a soft neon green glow. Suddenly, a pattern of lights animated on the monitor, and as they came to rest, a puzzle appeared over the on-screen grid. It was clear that this was all tied to the ship. They had fallen into a trap! There was only one hope - solve the puzzles to bypass the locks... and as the power continued to drain from what little remained of the backup power and life support systems, it was only a matter of time before they succumbed to their fate. </p>
+        <h2>Players</h2>
+        <p class="players">Single Player</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Adventure</li>
+          <li>Puzzle</li>
+          <li>Sci-Fi</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
       <guid>Tales of Monsterland DX</guid>
       <title>Tales of Monsterland DX</title>
-      <link>https://www.joeljgames.co.uk/games/tales-of-monsterland-dx/</link>
+      <link>https://modretro.com/products/tales-of-monsterland-dx/</link>
       <dc:creator>Joel J Games</dc:creator>
       <description><![CDATA[
         <p>Save a village besieged by monsters by uncovering their origin. Run, jump, and battle through a magical world while gaining new abilities. Inspired by classic 8-bit platformers, it’s a fast-paced adventure with charm and challenge.</p>
@@ -49,7 +88,6 @@
         <ul class="platforms">
           <li>Game Boy Color</li>
           <li>ModRetro Chromatic</li>
-          <li>Analogue Pocket</li>
         </ul>
         <h2>Genres</h2>
         <ul class="genres">
@@ -62,7 +100,6 @@
         <h2>Release</h2>
         <ul class="release">
           <li>Physical</li>
-          <li>Digital</li>
         </ul>
       ]]></description>
     </item>
@@ -145,7 +182,8 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
         </ul>
         <h2>Genres</h2>
         <ul class="genres">
-          <li>Fantasy RPG</li>
+          <li>RPG</li>
+          <li>Fantasy</li>
         </ul>
         <h2>Languages</h2>
         <ul class="languages">

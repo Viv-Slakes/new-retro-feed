@@ -13,7 +13,7 @@
       <description><![CDATA[
         <p>A deadly virus is corrupting the Federation’s neural network, threatening to isolate the galaxy. As Captain Ikalo Pann, follow cryptic clues, solve intricate puzzles, and explore alien worlds to stop the spread and uncover a deep sci-fi mystery.</p>
         <h2>Players</h2>
-        <p class="players">Single Player</p>
+        
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -30,6 +30,7 @@
         <h2>Languages</h2>
         <ul class="languages">
           <li>English</li>
+          <li>German</li>
         </ul>
         <h2>Release</h2>
         <ul class="release">
@@ -51,7 +52,7 @@ With no signs of life coming from the vessel, they feared the worst but proceede
 
 The display on a monitor in the middle of the room came to life, a cursor pulsed rhythmically, illuminating the Captain's surroundings with a soft neon green glow. Suddenly, a pattern of lights animated on the monitor, and as they came to rest, a puzzle appeared over the on-screen grid. It was clear that this was all tied to the ship. They had fallen into a trap! There was only one hope - solve the puzzles to bypass the locks... and as the power continued to drain from what little remained of the backup power and life support systems, it was only a matter of time before they succumbed to their fate. </p>
         <h2>Players</h2>
-        <p class="players">Single Player</p>
+        <p class="players">1</p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -83,7 +84,7 @@ The display on a monitor in the middle of the room came to life, a cursor pulsed
       <description><![CDATA[
         <p>Save a village besieged by monsters by uncovering their origin. Run, jump, and battle through a magical world while gaining new abilities. Inspired by classic 8-bit platformers, it’s a fast-paced adventure with charm and challenge.</p>
         <h2>Players</h2>
-        <p class="players">Single Player</p>
+        <p class="players">1</p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Game Boy Color</li>
@@ -112,7 +113,7 @@ The display on a monitor in the middle of the room came to life, a cursor pulsed
       <description><![CDATA[
         <p>Save a village besieged by monsters by uncovering their origin. Run, jump, and battle through a magical world while gaining new abilities. Inspired by classic 8-bit platformers, it’s a fast-paced adventure with charm and challenge.</p>
         <h2>Players</h2>
-        <p class="players">Single Player</p>
+        <p class="players">1</p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Game Boy</li>
@@ -143,7 +144,7 @@ The display on a monitor in the middle of the room came to life, a cursor pulsed
       <description><![CDATA[
         <p>TBD</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -174,7 +175,7 @@ The display on a monitor in the middle of the room came to life, a cursor pulsed
 
 Legacy of Verintia is an open-world fantasy RPG for the original Game Boy developed in 2023. The game lets players choose their own path. As you can earn experience points from every meaningful action, you can make progress in whichever way you want – help the local townsfolk, hunt monsters and sell their materials, collect and sell ingredients, help out on a farm, go fishing or play a card game at the local pub. </p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -207,7 +208,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
 - 32 collectible figures to get from a gacha machine
 - Arcade Mode: Just play the arcade games without the story</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -241,7 +242,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
 - Buy / find new costumes for your capybara
 - Buy / find new furniture for your home</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -271,7 +272,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
       <description><![CDATA[
         <p>My Friendly Little Island Deluxe is a cute game about personal growth and making friends. It starts out as a slow, simplistic adventure game. However, with every new skill you unlock, the game’s dynamics change more and more into a fast-paced platformer.</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -302,7 +303,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
       <description><![CDATA[
         <p>When Buck, a die-hard retro gamer, buys a mysterious cartridge labeled “DEFINITELY NOT A CURSED CARTRIDGE” from his local GameStop, things go sideways fast. The moment he pops it into his Chromatic, he’s sucked through the screen and trapped inside the game! To escape, Buck must battle through pixelated worlds, outsmart glitchy bosses, and uncover who—or what—is pulling the strings. With help from a rogue hacker, hidden cheats, and his trusty blaster, Buck’s only way out is to beat the game itself.</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>ModRetro Chromatic</li>
@@ -331,7 +332,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
       <description><![CDATA[
         <p>Play as the Doomslinger, a mysterious gunslinger. Venture into a creepy dungeon and defeat all kinds of spooky monsters like ghosts, zombies and pumpkin monsters.</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -363,7 +364,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
       <description><![CDATA[
         <p>It's, uhh.... It's about Executive Dysfunction.</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -392,7 +393,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
       <description><![CDATA[
         <p>Step into the shoes of an unlucky chronic illness patient in "The Death of Me": A medical-horror inspired by real life experiences battling the complexities of day-to-day life with mental and physical illnesses.</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -423,7 +424,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
 
 Prepare to explore a dungeon where danger isn't just a probability - it's a guarantee. Can you navigate Bat-Son to safety and unlock the final gate, or will you succumb to death time and time again, forever leaving the mysteries of the nightmare unsolved?</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -455,7 +456,7 @@ Prepare to explore a dungeon where danger isn't just a probability - it's a guar
 
 Explore Batty's home using the arrow keys. Important items will often be displayed with a sparkle effect. Depending on the context, players may need to press up or down to interact with objects in a scene.</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -489,7 +490,7 @@ Explore Batty's home using the arrow keys. Important items will often be display
 
 It also marks the debut of a new horror icon; Batty Zabella! Help save her family and rid her home of phantoms. She may give you sass while doing it, but you'll love it.</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -521,7 +522,7 @@ It also marks the debut of a new horror icon; Batty Zabella! Help save her famil
       <description><![CDATA[
         <p>Soul Void is a short, 1-3 hour experience made in the style of a gameboy-era game. Explore the odd landscapes of the void, help lost souls you find along the way, and face your inner demons as you attempt to find a way home.</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>
@@ -552,7 +553,7 @@ It also marks the debut of a new horror icon; Batty Zabella! Help save her famil
         <h2>Opinion</h2>
         <p class="opinion" data-author="Viv Slakes">The developer uses this game to tell a very difficult, personal story. The game can be quite hard to stomach and the trigger warnings the game provides should not be ignored.</p>
         <h2>Players</h2>
-        <p class="players">Unknown</p>
+        <p class="players">1-100</p></p>
         <h2>Platforms</h2>
         <ul class="platforms">
           <li>Browser</li>

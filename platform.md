@@ -13,3 +13,4 @@ If the Platform you want to add is not available yet just create a new one by wr
 - Game Boy
 - Game Boy Color
 - ModRetro Chromatic
+- Sega Saturn

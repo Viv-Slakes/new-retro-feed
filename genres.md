@@ -8,9 +8,25 @@ If the Genre you want to add is not available yet just create a new one by writi
 
 
 - Adventure
+- Board Game
+- Bullet Hell
+- Driving
+- Dungeon Crawler
+- Fantasy
+- Fighting
 - First-Person Shooter
 - Interactive Fiction
+- Metroidvania
+- Music
 - Platformer
 - Point & Click
+- Puzzle
+- Roguelite
+- RPG
+- Sci-Fi
+- Software
+- Steampunk
+- Strategy
 - TBD
+- Turn-Based
 - Visual Novel

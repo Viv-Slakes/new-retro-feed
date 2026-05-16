@@ -6,3 +6,6 @@
 # exclude any helper scripts
 *.py
 *.sh
+
+# development environment files
+.vscode/

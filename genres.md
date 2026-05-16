@@ -16,13 +16,16 @@ If the Genre you want to add is not available yet just create a new one by writi
 - Driving
 - Dungeon Crawler
 - E-Book
+- Exploration
 - Fantasy
 - Fighting
 - First-Person Shooter
 - Horror
 - Interactive Fiction
+- Interactive Storytelling
 - Metroidvania
 - Music
+- Mystery
 - Pancake Adventure
 - Platformer
 - Point & Click

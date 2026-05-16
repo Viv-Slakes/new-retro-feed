@@ -1,3 +1,8 @@
-app.js
-index.html
-styles.css
+# exclude any files related to the Website itself
+*.js
+*.html
+*.css
+
+# exclude any helper scripts
+*.py
+*.sh

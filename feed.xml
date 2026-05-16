@@ -4,6 +4,7 @@
     <title>New Games for Retro Consoles</title>
     <link>https://newretro.vivslakes.moe/</link>
     <description>Games found and reviewed by Viv Slakes.</description>
+
     <item>
       <guid>Tales of Monsterland DX</guid>
       <title>Tales of Monsterland DX</title>
@@ -34,6 +35,7 @@
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Tales of Monsterland</guid>
       <title>Tales of Monsterland</title>
@@ -64,6 +66,7 @@
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Neon Nova</guid>
       <title>Neon Nova</title>
@@ -86,6 +89,7 @@
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Legacy of Verintia</guid>
       <title>Legacy of Verintia</title>
@@ -110,6 +114,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Ghost of the Arcade</guid>
       <title>Ghost of the Arcade</title>
@@ -136,6 +141,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Capybara Village</guid>
       <title>Capybara Village</title>
@@ -163,6 +169,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>MY FRIENDLY LITTLE ISLAND DELUXE</guid>
       <title>MY FRIENDLY LITTLE ISLAND DELUXE</title>
@@ -187,6 +194,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Buck and the Cursed Cartridge</guid>
       <title>Buck and the Cursed Cartridge</title>
@@ -209,6 +217,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Doomslinger Dungeon</guid>
       <title>Doomslinger Dungeon</title>
@@ -234,6 +243,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Press "A" to Get Up</guid>
       <title>Press "A" to Get Up</title>
@@ -256,6 +266,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>The Death of Me</guid>
       <title>The Death of Me</title>
@@ -278,6 +289,7 @@ Legacy of Verintia is an open-world fantasy RPG for the original Game Boy develo
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Bat-Son's Nightmare Demo</guid>
       <title>Bat-Son's Nightmare Demo</title>
@@ -303,6 +315,7 @@ Prepare to explore a dungeon where danger isn't just a probability - it's a guar
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Batty Zabella 2 XOXO XMAS</guid>
       <title>Batty Zabella 2 XOXO XMAS</title>
@@ -330,6 +343,7 @@ Explore Batty's home using the arrow keys. Important items will often be display
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Batty Zabella</guid>
       <title>Batty Zabella</title>
@@ -357,6 +371,7 @@ It also marks the debut of a new horror icon; Batty Zabella! Help save her famil
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>Soul Void</guid>
       <title>Soul Void</title>
@@ -379,6 +394,7 @@ It also marks the debut of a new horror icon; Batty Zabella! Help save her famil
         </ul>
       ]]></description>
     </item>
+
     <item>
       <guid>He Fucked The Girl Out of Me</guid>
       <title>He Fucked The Girl Out of Me</title>
@@ -404,5 +420,6 @@ It also marks the debut of a new horror icon; Batty Zabella! Help save her famil
         </ul>
       ]]></description>
     </item>
+    
   </channel>
 </rss>

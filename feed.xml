@@ -5,6 +5,112 @@
     <link>https://newretro.vivslakes.moe/</link>
     <description>Games found and reviewed by Viv Slakes.</description>
     <item>
+      <guid>Tales of Monsterland DX</guid>
+      <title>Tales of Monsterland DX</title>
+      <link>https://www.joeljgames.co.uk/games/tales-of-monsterland-dx/</link>
+      <dc:creator>Joel J Games</dc:creator>
+      <description><![CDATA[
+        <p>Save a village besieged by monsters by uncovering their origin. Run, jump, and battle through a magical world while gaining new abilities. Inspired by classic 8-bit platformers, it’s a fast-paced adventure with charm and challenge.</p>
+        <h2>Players</h2>
+        <p class="players">Single Player</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy Color</li>
+          <li>ModRetro Chromatic</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Platformer</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Physical</li>
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
+      <guid>Tales of Monsterland</guid>
+      <title>Tales of Monsterland</title>
+      <link>https://joelj.itch.io/talesofmonsterland/</link>
+      <dc:creator>Joel J Games</dc:creator>
+      <description><![CDATA[
+        <p>Save a village besieged by monsters by uncovering their origin. Run, jump, and battle through a magical world while gaining new abilities. Inspired by classic 8-bit platformers, it’s a fast-paced adventure with charm and challenge.</p>
+        <h2>Players</h2>
+        <p class="players">Single Player</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Browser</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Platformer</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Physical</li>
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
+      <guid>Neon Nova</guid>
+      <title>Neon Nova</title>
+      <link>https://playinstinct.itch.io/neon-nova</link>
+      <dc:creator>playinstinct</dc:creator>
+      <description><![CDATA[
+        <p>TBD</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Driving</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
+      <guid>Legacy of Verintia</guid>
+      <title>Legacy of Verintia</title>
+      <link>https://playinstinct.itch.io/verintia</link>
+      <dc:creator>playinstinct</dc:creator>
+      <description><![CDATA[
+        <p>Welcome to Verintia!
+
+Legacy of Verintia is an open-world fantasy RPG for the original Game Boy developed in 2023. The game lets players choose their own path. As you can earn experience points from every meaningful action, you can make progress in whichever way you want – help the local townsfolk, hunt monsters and sell their materials, collect and sell ingredients, help out on a farm, go fishing or play a card game at the local pub. </p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Fantasy RPG</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <guid>Ghost of the Arcade</guid>
       <title>Ghost of the Arcade</title>
       <link>https://playinstinct.itch.io/ghost-of-the-arcade</link>
@@ -119,6 +225,8 @@
         <h2>Genres</h2>
         <ul class="genres">
           <li>First-Person Shooter</li>
+          <li>Dungeon Crawler</li>
+          <li>Roguelite</li>
         </ul>
         <h2>Release</h2>
         <ul class="release">

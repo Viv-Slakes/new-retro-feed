@@ -11,6 +11,7 @@ If the Platform you want to add is not available yet just create a new one by wr
 - Analogue Pocket
 - Browser
 - Game Boy
+- Game Boy Advance
 - Game Boy Color
 - ModRetro Chromatic
 - Sega Saturn

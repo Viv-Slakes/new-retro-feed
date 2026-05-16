@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  FEED ENTRY REFERENCE
+  ====================
+  Copy the <item> block below into feed.xml to add a new game.
+  Fields marked REQUIRED must always be present.
+  Fields marked OPTIONAL can be omitted entirely if not applicable.
+
+  The <description> block must always be wrapped in <![CDATA[ ... ]]>
+  so that HTML tags inside it are not misread as XML.
+-->
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <item>
+
+      <!-- REQUIRED: The game's full name. Also used as the unique identifier,
+           so every entry in the feed must have a different title. -->
+      <guid>Full Game Title Here</guid>
+      <title>Full Game Title Here</title>
+
+      <!-- REQUIRED: URL to the game's store page, itch.io listing, or official site. -->
+      <link>https://example.com/game</link>
+
+      <!-- REQUIRED: Developer or publisher name.
+           For multiple creators, separate names with a comma:
+           <dc:creator>Studio One, Studio Two</dc:creator> -->
+      <dc:creator>Developer Name</dc:creator>
+
+      <description><![CDATA[
+
+        <!-- REQUIRED: A short description or feature list for the game.
+             Plain text or bullet points both work. This is the first <p>
+             in the description, so do not give it a class. -->
+        <p>A short description of the game goes here.</p>
+
+        <!-- REQUIRED: Which platforms the game runs on.
+             Common values: Browser, Game Boy, Game Boy Color, Game Boy Advance,
+             Analogue Pocket, ModRetro Chromatic. Any systems that are discontinued or are made to be modernized versions of old systemsare allowed.
+             Use the exact same spelling each time so filters group correctly. -->
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy</li>
+          <li>Analogue Pocket</li>
+        </ul>
+
+        <!-- REQUIRED: Genre tags for the game.
+             Use consistent spelling across entries so filters group correctly.-->
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Platformer</li>
+          <li>Adventure</li>
+        </ul>
+
+        <!-- REQUIRED: How the game is available.
+             Accepted values are: Digital, Physical.
+             Include both if the game has both a digital and a physical release. -->
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+          <li>Physical</li>
+        </ul>
+
+
+        <!-- OPTIONAL: One or more opinions about the game.
+             Each opinion is its own <p class="opinion"> element.
+             The data-author attribute is optional but strongly encouraged
+             so readers know who wrote it.
+             Add one block per person who has written an opinion.
+             Omit the entire block if there is no opinion. -->
+        <h2>Opinion</h2>
+        <p class="opinion" data-author="Your Name">Your opinion of the game goes here.
+Write as much or as little as you like.</p>
+
+        <!-- Additional opinion from a second contributor: -->
+        <p class="opinion" data-author="Other Contributor">A second opinion from
+someone else goes here.</p>
+
+      ]]></description>
+    </item>
+  </channel>
+</rss>

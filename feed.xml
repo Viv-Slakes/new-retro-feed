@@ -36,6 +36,404 @@
      -->
 
     <item>
+      <guid>Bridget Bishop</guid>
+      <title>Bridget Bishop</title>
+      <link>https://www.youtube.com/watch?v=wIpdSe1gwWg</link>
+      <dc:creator>Fran Matsusaka</dc:creator>
+      <description><![CDATA[
+        <p>TBD</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Sega Saturn</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Fantasy</li>
+          <li>Adventure</li>
+          <li>Puzzle</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Wing Warriors</guid>
+      <title>Wing Warriors</title>
+      <link>https://incube8games.com/en-eu/products/wing-warriors-gbc</link>
+      <dc:creator>Fran Matsusaka</dc:creator>
+      <description><![CDATA[
+        <p>Wing Warriors is a fast paced shoot ‘em up, featuring three playable characters that promote different strategies as you try to conquer the game’s six stages and three boss battles. The game also features a score saving feature, and is playable in English, French, and Spanish.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Shmup</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+          <li>French</li>
+          <li>Spanish</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Physical</li>
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Zephyr's Pass</guid>
+      <title>Zephyr's Pass</title>
+      <link>https://crtogrphr.com/zephyrspass/</link>
+      <dc:creator>CRTOGRPHR</dc:creator>
+      <description><![CDATA[
+        <p>Zephyr's Pass is a captivating, narrative-driven action-adventure game designed specifically for the GBC.
+
+Set in a land tormented by destructive winds, the game's inhabitants are forced to live in canyons and travel via low-flying airships.
+
+The story follows a young hero, Abel, who joins forces with a band of pirates to defeat Thane, a man striving to become the Wind God. To accomplish this, Abel must locate ancient pieces of armor, each granting him new abilities and the strength to save his land.
+
+The game features rich, detailed visuals that surpass many other titles on the system, both homebrew, and official release. It offers challenging puzzles that vary up the dungeons you will explore, each featuring a unique mechanic to test the player.
+
+The game's creators aim to provide an experience akin to the many great official releases for the GBC.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Action-Adventure</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+          <li>Physical</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Hellbreaker</guid>
+      <title>Hellbreaker</title>
+      <link>https://technofantasy.itch.io/hellbreaker</link>
+      <dc:creator>Technofantasy</dc:creator>
+      <description><![CDATA[
+        <p>Pre-release alpha demo of Hell Breaker, a new puzzle game for the Game Boy Color.
+        
+        Every century since the dawn of man a battle has taken place between Heaven and Hell over the souls that get lost between the realms. Each side nominates an angel to fight and the winner collects these souls for their side. 
+
+In this, our year 20XX, dark angel Lilith enters the puzzle arena to battle light angel Muriel for the title of Hell Breaker.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Puzzle</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Opossum Country</guid>
+      <title>Opossum Country</title>
+      <link>https://benjelter.itch.io/opossum-country</link>
+      <dc:creator>BenJelter</dc:creator>
+      <description><![CDATA[
+        <p>A story-driven horror game for Game Boy. Investigate a suspicious trailer park and uncover its secret horrors.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy Color</li>
+          <li>Browser</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Horror</li>
+          <li>Adventure</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Decline</guid>
+      <title>Decline</title>
+      <link>https://benjelter.itch.io/decline</link>
+      <dc:creator>BenJelter</dc:creator>
+      <description><![CDATA[
+        <p>A story-driven horror game for Game Boy. Investigate a teacher's murder and deal with the effects of old age. The game features multiple endings based on decisions you make along the way.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Browser</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Horror</li>
+          <li>Adventure</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>The Last Employee DX</guid>
+      <title>The Last Employee DX</title>
+      <link>https://benjelter.itch.io/the-last-employee</link>
+      <dc:creator>BenJelter</dc:creator>
+      <description><![CDATA[
+        <p>A quick game that I made over the weekend for Mini Jam 42: SNOW
+
+The constraint for the game was that it could use no more than two colors. I also made it in two days so it's a very binary game!
+- BenJelter</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Visual Novel</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Game Boy color test utility</guid>
+      <title>Game Boy color test utility</title>
+      <link>https://benjelter.itch.io/game-boy-color-test</link>
+      <dc:creator>BenJelter</dc:creator>
+      <description><![CDATA[
+        <p>I am providing a browser version as a demo but the real purpose is to put this palette editor on a Game Boy and test colors there to ensure that your palettes will work well. 
+
+This utility can give you the rgb values to type into GB Studio's palette editor when you get a palette you like and it can even output a number for the color that can be used with Mico27's set palette color plug-in: https://github.com/Mico27/gbs-setPaletteColorPlugin</p>
+        <h2>Players</h2>
+        <p class="players"></p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy</li>
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Software</li>
+          <li>Development Tool</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>None</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>The Machine</guid>
+      <title>The Machine</title>
+      <link>https://incube8games.com/en-eu/products/the-machine-gbc</link>
+      <dc:creator>BenJelter</dc:creator>
+      <description><![CDATA[
+        <p>The Machine is a game about a little guy named Girt. Girt lives in the machine. The machine isn't perfect but it's the only thing Girt knows. Girt can choose any career he wants... as long as he has good enough test scores! By the way, Girt forgot to study for his tests. Good luck! :)
+
+The Machine is a non-linear adventure where you can get different jobs, meet new characters, and try to survive inside the machine. As you progress along different career paths you can learn more about the world and unlock new careers by scoring higher on the test the next time you play. Your choices affect the direction the machine's society goes. If you rise through the ranks you can change the course of the machine's history.
+
+I am calling the genre a 'pancake adventure' because the story tree is an experimental format where it is short but very wide so that on subsequent play-throughs things can be totally different. If you play through the demo a couple of times and make different decision you will start to see the flexibility of the story!</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Adventure</li>
+          <li>Sci-Fi</li>
+          <li>Pancake Adventure</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Physical</li>
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Metamorphosis Collection</guid>
+      <title>Metamorphosis Collection</title>
+      <link>https://incube8games.com/en-eu/products/metamorphosis-collection-gbc</link>
+      <dc:creator>BenJelter</dc:creator>
+      <description><![CDATA[
+        <p>The Metamorphosis Collection contains three original horror games, linked together by the theme of transformation. Explore the depths of human psychology with these stories crafted by the award-winning game designer Ben Jelter.
+
+Just be careful… as you play, you may find yourself transformed as well!
+
+In Opossum Country, you play as a food delivery guy who needs to make a delivery at a trailer park. What seems like another day at work quickly unravels. Can he complete his delivery or will his curiosity lead to his ultimate demise?
+
+In Decline, you play as an elderly police detective on the verge of retirement. Wrestling with cognitive decline, she attempts to solve the seemingly simple case. Though, things may not be as they seem as rumors spread about something called the ‘Glitch Witch’…
+
+In Specimen 134, you play as a regular kid named Jason who starts to notice some very unusual things going on in his town. His friend David asks him if he wants to explore the woods but he might not like what he finds there…</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Horror</li>
+          <li>Adventure</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Physical</li>
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>First Contact Protocol</guid>
+      <title>First Contact Protocol</title>
+      <link>https://modretro.com/products/first-contact-protocol</link>
+      <dc:creator>BenJelter</dc:creator>
+      <description><![CDATA[
+        <p>First Contact Protocol (FCP) is a story about encountering alien life. It takes place on a monitor vessel that is tasked with ensuring the safety of a large interstellar spaceship called the Dia Modrona.
+
+FCP is a story-driven adventure game. It features various environmental puzzles and a nonlinear story. By interacting with the puzzles and the crew in various ways, you can change the fate of the ship! The crew has different motivations that keep things interesting. You will have to interact with the ship's systems to get to one of the many endings.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>ModRetro Chromatic</li>
+          <li>Game Boy</li>
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Adventure</li>
+          <li>Sci-Fi</li>
+          <li>Puzzle</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Physical</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>OrmBlok</guid>
+      <title>OrmBlok</title>
+      <link>https://benjelter.itch.io/ormblok</link>
+      <dc:creator>BenJelter, Technofantasy</dc:creator>
+      <description><![CDATA[
+        <p>Ormblok is an arcade style falling block game with a twist. Use your blocks to create pellets in the playfield and then use the worm to eat the pellets! 
+
+Each round the target goal increases dramatically. Can you make it to round 9? 
+
+The game focuses on risk/reward with the things that can earn you the most points also being the riskiest things to try to do. You can learn optimal strategies for playing the game and get scores that are exponentially higher.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Puzzle</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
       <guid>UNEARTHED 2024 EDITION</guid>
       <title>UNEARTHED 2024 EDITION</title>
       <link>https://benjelter.itch.io/unearthed</link>
@@ -84,6 +482,7 @@ Collect all the coins to complete levels. Complete levels super fast and you wil
         <p class="players">1</p>
         <h2>Platforms</h2>
         <ul class="platforms">
+          <li>Browser</li>
           <li>Game Boy Color</li>
           <li>Analogue Pocket</li>
         </ul>
@@ -122,6 +521,7 @@ I hope you enjoy The Ungrateful Son,
         <ul class="platforms">
           <li>Game Boy</li>
           <li>Analogue Pocket</li>
+          <li>Browser</li>
         </ul>
         <h2>Genres</h2>
         <ul class="genres">
@@ -1268,6 +1668,7 @@ It also marks the debut of a new horror icon; Batty Zabella! Help save her famil
         <h2>Genres</h2>
         <ul class="genres">
           <li>Visual Novel</li>
+          <li>Art</li>
         </ul>
         <h2>Languages</h2>
         <ul class="languages">

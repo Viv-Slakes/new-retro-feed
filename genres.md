@@ -7,11 +7,14 @@ Use these exact spellings in `feed.xml` so the site filters group entries correc
 If the Genre you want to add is not available yet just create a new one by writing it into the entry, it will be added to this file in the next update.
 
 
+- Action
 - Action-Adventure
 - Adventure
+- Arcade
 - Art
 - Board Game
 - Bullet Hell
+- Card Game
 - Development Tool
 - Driving
 - Dungeon Crawler
@@ -21,15 +24,17 @@ If the Genre you want to add is not available yet just create a new one by writi
 - Fighting
 - First-Person Shooter
 - Horror
-- Interactive Fiction
 - Interactive Storytelling
+- JRPG
 - Metroidvania
+- Microgames
 - Music
 - Mystery
 - Pancake Adventure
 - Platformer
 - Point & Click
 - Puzzle
+- Roguelike
 - Roguelite
 - RPG
 - Sci-Fi
@@ -37,6 +42,7 @@ If the Genre you want to add is not available yet just create a new one by writi
 - Software
 - Steampunk
 - Strategy
+- Tactical RPG
 - TBD
 - Turn-Based
 - Visual Novel

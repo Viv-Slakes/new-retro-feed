@@ -4,7 +4,263 @@
     <title>New Games for Retro Consoles</title>
     <link>https://newretro.vivslakes.moe/</link>
     <description>Games found and reviewed by Viv Slakes.</description>
+    
+    <!-- 
+    <item>
+      <guid></guid>
+      <title></title>
+      <link></link>
+      <dc:creator></dc:creator>
+      <description><![CDATA[
+        <p></p>
+        <h2>Players</h2>
+        <p class="players"></p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li></li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li></li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li></li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li></li>
+        </ul>
+      ]]></description>
+    </item>
+     -->
 
+    <item>
+      <guid>UNEARTHED 2024 EDITION</guid>
+      <title>UNEARTHED 2024 EDITION</title>
+      <link>https://benjelter.itch.io/unearthed</link>
+      <dc:creator>BenJelter</dc:creator>
+      <description><![CDATA[
+        <p> Set in a future where humanity has all but depleted Earth's resources, UNEARTHED invites you on an interstellar journey with Max - a husband, father and employee of the off-planet mining corporate juggernaut 'Deep Space Mineral Retrieval'. Pilot your DSMR issued Mech to delve into the depths of planets, navigate perilous caverns and solve a multitude of puzzles to retrieve your quota of mineral resources and provide for your loving family back on Earth.
+
+Though Max is just your average blue collar worker, he'll uncover much more than mineral deposits during this year's contracted expedition. Prepare to embark on a sci-fi adventure where every dig brings you closer to uncovering the truth buried under alien soil. What secrets are waiting to be UNEARTHED? </p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Game Boy Color</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Sci-Fi</li>
+          <li>Puzzle</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+          <li>Physical</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Super Jacked Up Tomato Face Johnson</guid>
+      <title>Super Jacked Up Tomato Face Johnson</title>
+      <link>https://gumpyfunction.itch.io/super-jacked-up-tomato-face-johnson</link>
+      <dc:creator>Gumpy Function</dc:creator>
+      <description><![CDATA[
+        <p>Super Jacked Up Tomato Face Johnson is a fast paced twitch platformer made for the Game Boy Color. There's a new protein shake fresh on the shelves and Tomato Face Johnson needs to bulk up! It's on the pricey side of course, but luckily, it's on sale for a limited time...
+
+Time to get speedy!
+
+Collect all the coins to complete levels. Complete levels super fast and you will earn enough stars to progress to the next world.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy Color</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Platformer</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>The Ungrateful Son</guid>
+      <title>The Ungrateful Son</title>
+      <link>https://gumpyfunction.itch.io/the-ungrateful-son</link>
+      <dc:creator>Gumpy Function</dc:creator>
+      <description><![CDATA[
+        <p>Back in January of 2022, Robert Dorman released a video on Art Carts. He asked the question "What would a book look like on a Game Boy". I was inspired by this thought and the end result is this - "The Ungrateful Son" by the Brothers Grimm, adapted for the Game Boy.
+
+The Game Boy itself has a form factor similar to a small book, and I was interested in seeing how I could present long strings of text in a way that wasn't difficult to comprehend. I was drawn to the Brother's Grimm fairy tales when deciding what to create. The stories are reasonably short which suits the handheld and they allow for illustrations which serve to break up the text and offer a moment to rest between reading. They also contain themes and imagery that will excite children while still engaging adults. This was important to me because the Game Boy is a console that has been enjoyed by all ages since its release and I felt it's important to make sure the story caters to that same wide demographic.
+
+The story is intended for use with the Game Boy (download the ROM below and flash to a cart or similar) or the Analogue Pocket (.pocket file available to download below).
+
+I hope you enjoy The Ungrateful Son,
+- Tom (Gumpy Function)</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Art</li>
+          <li>E-Book</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Dicee!</guid>
+      <title>Dicee!</title>
+      <link>https://gumpyfunction.itch.io/dicee</link>
+      <dc:creator>Gumpy Function</dc:creator>
+      <description><![CDATA[
+        <p>Dicee! is dice puzzle game for the Game Boy and Game Boy Color.</p>
+        <h2>Players</h2>
+        <p class="players">1-2</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Puzzle</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>CAPPIMON</guid>
+      <title>CAPPIMON</title>
+      <link>https://gumpyfunction.itch.io/cappimon</link>
+      <dc:creator>Gumpy Function</dc:creator>
+      <description><![CDATA[
+        <p>CAPPIMON is an RPG/Platformer hybrid for the Game Boy Color. Inspired by but antithetical to the Pokemon series, this is a very short proof of concept demo for the game. </p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy Color</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Platformer</li>
+          <li>RPG</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Knit-Wit</guid>
+      <title>Knit-Wit</title>
+      <link>https://gumpyfunction.itch.io/knit-wit</link>
+      <dc:creator>Gumpy Function</dc:creator>
+      <description><![CDATA[
+        <p>Knit-Wit is a push block puzzle game in the style of Nintendo's Game Boy Color.
+
+Puzzle your way through 15 levels as you find enough wool to knit each of your family members a warm jumper and stave off the winter chills.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Puzzle</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>CUPID</guid>
+      <title>CUPID</title>
+      <link>https://gumpyfunction.itch.io/cupid</link>
+      <dc:creator>Gumpy Function</dc:creator>
+      <description><![CDATA[
+        <p>Something or someone has broken the Heart, a magical relic that stitches all things together. Without it, the universe will slowly unravel and everything will fall into darkness. Play as a cute little Cupid, tasked with mending the broken Heart. Do your best to spread love and happiness to all that you meet and prevent the darkness from taking hold!</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Puzzle</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
     <item>
       <guid>Super Dassalo Land</guid>
       <title>Super Dassalo Land</title>

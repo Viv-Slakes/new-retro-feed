@@ -11,11 +11,11 @@ Games are listed in `feed.xml`. To add a game, copy the `<item>` block from `sam
 ## Games
 
 - You are allowed to add games where at least one of the platforms it has been released for has been discontinued and the game has been published after the platform has been discontinued. Meaning: no more official game releases and any official online store closed down (e.g. 3DS). **IMPORTANT: Emulators are not platforms. If a release is not for the default UI of a platform it needs to be mentioned as part of the platform. (e.g. "3DS Homebrew-Launcher" instead of "3DS")**
-- You are not allowed to add any games that communicate any kind of hateful message (e.g transphobia, queerphobia, racism).
+- You are not allowed to add any games that communicate any kind of hateful message regarding marginalized groups (e.g transphobia, queerphobia, racism).
 
-## Opinions
+## Opinions (Short Reviews)
 
-- Your opinions are not allowed to communicate any kind of hateful message (e.g. transphobia, queerphobia, racism).
+- Your opinions are not allowed to communicate any kind of hateful message regarding marginalized groups (e.g. transphobia, queerphobia, racism).
 - Since opinions are meant to be interpreted as short reviews developers and people directly financially connected to a game are not allowed to provide their opinion. **IMPORTANT: People that fall in this Category are of course still welcome to add a game itself, just not an opinion.**
 
 

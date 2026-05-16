@@ -36,6 +36,462 @@
      -->
 
     <item>
+      <guid>MICROGAMES Jam Pak</guid>
+      <title>MICROGAMES Jam Pak</title>
+      <link>https://bownly.itch.io/microgames-jam-pak</link>
+      <dc:creator>Bownly</dc:creator>
+      <description><![CDATA[
+        <p>TBD</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Microgames</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>GB Jammers</guid>
+      <title>GB Jammers</title>
+      <link>https://bownly.itch.io/gb-jammers</link>
+      <dc:creator>Bownly</dc:creator>
+      <description><![CDATA[
+        <p>Let's be real, participating in a game jam can be a lot of work. Sometimes it's just easier to play a very loose simulation of a game jam instead. Collect game assets (in the form of cards), create your ideal tech stack (by building a deck), and [auto] battle your way through increasingly competitive game jams. Can you become the ultimate GB Jammer?</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Browser</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Card Game</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Ningami 2</guid>
+      <title>Ningami 2</title>
+      <link>https://bownly.itch.io/ningami-2</link>
+      <dc:creator>Bownly</dc:creator>
+      <description><![CDATA[
+        <p>Ningami 2 is a deck builder board game with 4 unique characters to play as, and 3 different board types to play through. (Plus maybe even a secret 4th board type???) The game is honestly pretty self explanatory, but here are a few helpful tips for some not immediately obvious things:</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Browser</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Card Game</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Double Dyad</guid>
+      <title>Double Dyad</title>
+      <link>https://bownly.itch.io/double-dyad</link>
+      <dc:creator>Bownly</dc:creator>
+      <description><![CDATA[
+        <p>Double Dyad is basically Triple Triad, but for the Gameboy. The deep lore has something to do with ghosts turning into robots or something. I dunno. You'll have to piece it together on your own--like Dark Souls. It's the Dark Souls of Triple Triad demakes on the Gameboy.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Analogue Pocket</li>
+          <li>Browser</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Card Game</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Logue</guid>
+      <title>Logue</title>
+      <link>https://bownly.itch.io/logue</link>
+      <dc:creator>Bownly</dc:creator>
+      <description><![CDATA[
+        <p>TBD</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Browser</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Roguelike</li>
+          <li>RPG</li>
+          <li>JRPG</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Buddy Book Battle</guid>
+      <title>Buddy Book Battle</title>
+      <link>https://bownly.itch.io/buddy-book-battle</link>
+      <dc:creator>Bownly</dc:creator>
+      <description><![CDATA[
+        <p>I didn't have time to fit the story in the game, so here it is: there exists a magical race of beings called buddies. Through the use of spellbooks, they can use powerful magic. However, they can't actually read their own books. They have to partner up with a human who can read their book. Further, in order to draw out the full potential of each book, the buddy and human pair have to have a strong bond. And the best way to deepen their bonds is through combat.
+
+One day, a buddy named Paige suggested to her group of friends that they should hold a friendly battle royale in order to increase the bonds with their partners and strengthen the group as a whole...
+
+(Yes, I stole this directly from Zatch Bell lol. Also, other than the player calling out commands during battle, the human partners aren't directly represented in the game. I didn't have the dev bandwidth for that. Small indie dev, please understand.)
+
+- Bownly</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Browser</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Action</li>
+          <li>Adventure</li>
+          <li>RPG</li>
+          <li>JRPG</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>GB Paint</guid>
+      <title>GB Paint</title>
+      <link>https://bownly.itch.io/gb-paint</link>
+      <dc:creator>Bownly</dc:creator>
+      <description><![CDATA[
+        <p>Draw up to 16 8x8 pictures using the full  range of the Gameboy's expansive 4 color palette. You can even save your creations using the battery save. </p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Art</li>
+          <li>Software</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Tobu Tobu Bōzu</guid>
+      <title>Tobu Tobu Bōzu</title>
+      <link>https://bownly.itch.io/tobu-tobu-bouzu</link>
+      <dc:creator>Bownly</dc:creator>
+      <description><![CDATA[
+        <p>The year is Neo New Kyoto. Happiness is a rare commodity in this dreary cyberpunk dystopia. Faced with a ceaseless rain, it's up to a lone teru teru bōzu to ward off the downpour. The only method being to platform up to the top of the labyrinthian amalgamation of various buildings that mars the skyline, and hang from the tallest eaves in the city.
+
+Can the future be saved? No, of course not. But perhaps, by your actions, you can help to provide some much needed sunlight to the disheveled masses. Your mission--much like the lives of the struggling Neo New Kyotoites--will be short and difficult. </p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Platformer</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Ningami</guid>
+      <title>Ningami</title>
+      <link>https://bownly.itch.io/ningami</link>
+      <dc:creator>Bownly</dc:creator>
+      <description><![CDATA[
+        <p>Assume the role of a ninja undergoing the trial to become a ningami master. Craft your own unique deck, defeat origami foes, and master the ancient art of ningami. </p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Adventure</li>
+          <li>Card Game</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Magipanels</guid>
+      <title>Magipanels</title>
+      <link>https://incube8games.com/en-eu/products/magipanels-gb</link>
+      <dc:creator>Bownly</dc:creator>
+      <description><![CDATA[
+        <p>Magipanels is a modern take on the match 3 genre that feels right at home on the Nintendo Game Boy. Manipulate panels on the grid one column or row at a time to form matches and earn a high score, while utilizing character specific abilities to radically alter the grid in your favour!</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Puzzle</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+          <li>Physical</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Kien</guid>
+      <title>Kien</title>
+      <link>https://incube8games.com/en-eu/products/kien-gba</link>
+      <dc:creator>Age Of Games</dc:creator>
+      <description><![CDATA[
+        <p>Discover the Secret of Kien! For 7,000 years the planet of Malkut has been wisely ruled by the 7 Masters of the Absolute. But chaos has been reborn as evil corrupts the Land of Harmony. The 7 Masters have vanished, mystical warriors were slaughtered, and the temples are doomed in blood. The only hope that remains is imprisoned in the hearts and wills of two young apprentices. Their fate is to fight evil, reveal the truth, and discover the secret of Kien.
+
+An enthralling action platformer infused with RPG elements, immersing adventures in a captivating fantasy world of 23 intricate and demanding levels. With Gameplay that maintains a relentless pace, throwing players into the midst of frenetic action where they must confront a multitude of adversaries. The distinctive non-linear structure grants you the freedom to explore Kien's expansive world as you choose; Journey from one stage to the next, making every playthrough a unique and captivating adventure.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy Advance</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Platformer</li>
+          <li>RPG</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+          <li>Physical</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Infinity</guid>
+      <title>Infinity</title>
+      <link>https://incube8games.com/en-eu/products/infinity-gbc</link>
+      <dc:creator>Incube8 Games</dc:creator>
+      <description><![CDATA[
+        <p>An ancient, nameless evil stirs beneath the earth, twisting the land and its people alike with its corrupting force. Two rival nations careen toward war, as a shadowy figure arms them both with unholy weapons of immense power. A disgraced knight is called upon to overcome the centuries-old pain that divides these peoples, his own grief, and the malevolent forces fanning the flames of hate. This epic tale frames a roleplaying game with a unique tactical battle system, 5 playable characters, a detailed world with over 30 explorable areas and more than 100 items, and beautiful 8-bit graphics — all to immerse you into the world of Infinity!</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>RPG</li>
+          <li>Tactical RPG</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Physical</li>
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>IndestructoTank!</guid>
+      <title>IndestructoTank!</title>
+      <link>https://incube8games.com/en-eu/products/indestructotank-gb</link>
+      <dc:creator>The EXP</dc:creator>
+      <description><![CDATA[
+        <p>The world faces an insurmountable danger that it has never seen before. In desperation, Earth calls on a hero, and Dirk Danger answers the call, manning the mighty IndestructoTank, an… indestructible bouncing tank? He may not be the hero they wanted, but he’s certainly the hero they need.
+
+IndestructoTank! is an arcade style game that seeks to bring the classic Flash game to your Game Boy, as you destructively bounce across helicopters, planes, and more, trying to score high combos and gather points to spend on upgrades. Hop into the IndestructoTank!, and get ready for a ride!</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Arcade</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+          <li>Physical</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Hidden Gems</guid>
+      <title>Hidden Gems</title>
+      <link>https://incube8games.com/en-eu/products/hidden-gems-gbc-digital-edition</link>
+      <dc:creator>Rebusmind</dc:creator>
+      <description><![CDATA[
+        <p>Hidden Gems is a strategic card game for the Game Boy and Game Boy Color that challenges you to outsmart an adaptive AI opponent in a battle of wits and strategy.
+
+Fuse gem cards and place them on a 4x4 board to achieve the highest score. With just three basic card types, the game offers endless possibilities through clever fusions and tactical placement. Whether you’re a casual gamer or a seasoned strategist, Hidden Gems is easy to learn but hard to master.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Puzzle</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Dango Dash</guid>
+      <title>Dango Dash</title>
+      <link>https://incube8games.com/en-eu/products/dango-dash-gbc</link>
+      <dc:creator>Rebusmind</dc:creator>
+      <description><![CDATA[
+        <p>Ever since an unknown calamity destroyed the world, people live on islands floating in a vast sea of clouds. In a small village on one of these islands lives a young boy called Dango, who tries to find his place in life.
+
+Dango Dash is a platformer adventure game that combines fast-paced action with an engaging story about growing up and fighting for what you believe in. Help Dango in his quest to save his village and defeat the evil Hanami ninja clan threatening their peace.</p>
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Platformer</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+          <li>Physical</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
       <guid>Narcotiendita</guid>
       <title>Narcotiendita</title>
       <link>https://carmelo-electronics.itch.io/narcotiendita</link>
@@ -1836,7 +2292,7 @@ It also marks the debut of a new horror icon; Batty Zabella! Help save her famil
         </ul>
         <h2>Genres</h2>
         <ul class="genres">
-          <li>Interactive Fiction</li>
+          <li>Interactive Storytelling</li>
         </ul>
         <h2>Languages</h2>
         <ul class="languages">

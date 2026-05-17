@@ -33,12 +33,16 @@ If the Genre you want to add is not available yet just create a new one by writi
 - Pancake Adventure
 - Platformer
 - Point & Click
+- Precision Platformer
 - Puzzle
+- Racing
+- Railway Shooter
 - Roguelike
 - Roguelite
 - RPG
 - Sci-Fi
 - Shmup
+- Shooter
 - Software
 - Steampunk
 - Strategy

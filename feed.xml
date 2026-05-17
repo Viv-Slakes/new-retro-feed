@@ -13,6 +13,7 @@
       <dc:creator></dc:creator>
       <description><![CDATA[
         <p></p>
+        <img src="" alt="" />
         <h2>Players</h2>
         <p class="players"></p>
         <h2>Platforms</h2>
@@ -34,7 +35,101 @@
       ]]></description>
     </item>
      -->
+    
+    <item>
+      <guid>Severen Demo</guid>
+      <title>Severen Demo</title>
+      <link>https://izma.itch.io/severen-demo-ver</link>
+      <dc:creator>-IZMA-</dc:creator>
+      <description><![CDATA[
+        <p>Playing across 10+ full levels with interchangeable limbs that allow for new abilities and secret paths to be found. The full game will feature an overworld full of puzzles and NPC areas to explore as well as the main levels the game will play similarly to Deadeus with multiple endings, just with a more action oriented platformer style.</p>
+        <img src="https://img.itch.zone/aW1hZ2UvMTIxNjkxOS83MTAwMzU4LnBuZw==/original/ObIT8d.png" alt="Severen Demo Cover Art" />
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Browser</li>
+          <li>Game Boy</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Platformer</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Deadeus</guid>
+      <title>Deadeus</title>
+      <link>https://izma.itch.io/deadeus</link>
+      <dc:creator>-IZMA-</dc:creator>
+      <description><![CDATA[
+        <p>This horror game has already received a lot of fanfare in the retro gaming community, so we are happy to have the opportunity to help get it into more hands!
 
+Deadeus is an authentic horror Gameboy game developed using Chris Maltby’s GB Studio engine, featuring music by Stuart Busby. The game centers around a small boy who has a prophetic nightmare telling him everyone will die in 3 days and that he has to investigate his village to see how he can save them, if at all. It has 11 endings and no direct path leaving it up to the player to decide which is the best course of action.</p>
+        <img src="https://img.itch.zone/aW1hZ2UvNDY0MjU0LzIzNjE4MTEuanBn/original/yRxlUc.jpg" alt="Deadeus Cover Art" />
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy</li>
+          <li>Analogue Pocket</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>Horror</li>
+          <li>Mystery</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>Physical</li>
+          <li>Digital</li>
+        </ul>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid>Aaling The Ghost</guid>
+      <title>Aaling The Ghost</title>
+      <link>https://weiweileung.com/Aaling-the-Ghost</link>
+      <dc:creator>Weiwei Leung</dc:creator>
+      <description><![CDATA[
+        <p>Aaling’s life is taken away due to the Nether World’s bureaucratic mistake. After her appeal was neglected, she decides to escape from the Nether World. Soon she learns that the only way to retrieve her life is to seek help from the Queen Mother of the West, an enigmatic goddess who lives on the Kunlun Mountain. Not knowing its exact location, Aaling has only seven days to arrive at the sacred mountain before she vanishes. An adventure full of mysteries, curious encounters, and dives into the unknown has begun, with temptations, threats, and dangers lurking in all directions…</p>
+        <img src="https://incube8games.com/cdn/shop/files/ATG_BoxCoverMockup.png" alt="Aaling The Ghost Cover Art" />
+        <h2>Players</h2>
+        <p class="players">1</p>
+        <h2>Platforms</h2>
+        <ul class="platforms">
+          <li>Game Boy Color</li>
+        </ul>
+        <h2>Genres</h2>
+        <ul class="genres">
+          <li>RPG</li>
+        </ul>
+        <h2>Languages</h2>
+        <ul class="languages">
+          <li>English</li>
+        </ul>
+        <h2>Release</h2>
+        <ul class="release">
+          <li>TBA</li>
+        </ul>
+      ]]></description>
+    </item>
+    
     <item>
       <guid>Dracula DARK REIGN</guid>
       <title>Dracula DARK REIGN</title>
@@ -71,8 +166,8 @@ The game features a unique prologue drawn from Bram Stoker’s personal notes, i
     </item>
     
     <item>
-      <guid></guid>
-      <title></title>
+      <guid>Dragonym</guid>
+      <title>Dragonym</title>
       <link>https://www.spacebot-interactive.com/dragonyhm</link>
       <dc:creator>SPACEBOT INTERACTIVE</dc:creator>
       <description><![CDATA[

@@ -1,0 +1,2329 @@
+[
+  {
+    "id": "Severen Demo",
+    "title": "Severen Demo",
+    "link": "https://izma.itch.io/severen-demo-ver",
+    "publishers": [
+      "-IZMA-"
+    ],
+    "description": "Playing across 10+ full levels with interchangeable limbs that allow for new abilities and secret paths to be found. The full game will feature an overworld full of puzzles and NPC areas to explore as well as the main levels the game will play similarly to Deadeus with multiple endings, just with a more action oriented platformer style.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": [],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTIxNjkxOS83MTAwMzU4LnBuZw==/original/ObIT8d.png",
+    "cover_image_alt": "Severen Demo Cover Art"
+  },
+  {
+    "id": "Deadeus",
+    "title": "Deadeus",
+    "link": "https://izma.itch.io/deadeus",
+    "publishers": [
+      "-IZMA-"
+    ],
+    "description": "This horror game has already received a lot of fanfare in the retro gaming community, so we are happy to have the opportunity to help get it into more hands!\n\nDeadeus is an authentic horror Gameboy game developed using Chris Maltby’s GB Studio engine, featuring music by Stuart Busby. The game centers around a small boy who has a prophetic nightmare telling him everyone will die in 3 days and that he has to investigate his village to see how he can save them, if at all. It has 11 endings and no direct path leaving it up to the player to decide which is the best course of action.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical",
+      "Digital"
+    ],
+    "opinions": [],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNDY0MjU0LzIzNjE4MTEuanBn/original/yRxlUc.jpg",
+    "cover_image_alt": "Deadeus Cover Art"
+  },
+  {
+    "id": "Aaling The Ghost",
+    "title": "Aaling The Ghost",
+    "link": "https://weiweileung.com/Aaling-the-Ghost",
+    "publishers": [
+      "Weiwei Leung"
+    ],
+    "description": "Aaling’s life is taken away due to the Nether World’s bureaucratic mistake. After her appeal was neglected, she decides to escape from the Nether World. Soon she learns that the only way to retrieve her life is to seek help from the Queen Mother of the West, an enigmatic goddess who lives on the Kunlun Mountain. Not knowing its exact location, Aaling has only seven days to arrive at the sacred mountain before she vanishes. An adventure full of mysteries, curious encounters, and dives into the unknown has begun, with temptations, threats, and dangers lurking in all directions…",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "TBA"
+    ],
+    "opinions": [],
+    "cover_image": "https://incube8games.com/cdn/shop/files/ATG_BoxCoverMockup.png",
+    "cover_image_alt": "Aaling The Ghost Cover Art"
+  },
+  {
+    "id": "Dracula DARK REIGN",
+    "title": "Dracula DARK REIGN",
+    "link": "https://www.spacebot-interactive.com/dracula",
+    "publishers": [
+      "SPACEBOT INTERACTIVE"
+    ],
+    "description": "Dracula - Dark Reign is an Official StokerVerse™ Game and is developed under license from The StokerVerse™ Project.\nIt is the first-ever Stoker family-authorized Dracula video game!\n\nThe game features a unique prologue drawn from Bram Stoker’s personal notes, introducing elements never before seen in any medium. Players will relive Jonathan Harker’s daring escape from Castle Dracula, capturing a pivotal moment that has intrigued Dracula enthusiasts for generations.​",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "Platformer",
+      "Metroidvania"
+    ],
+    "platforms": [
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical",
+      "Digital"
+    ],
+    "opinions": [],
+    "cover_image": "https://incube8games.com/cdn/shop/files/DDR-GBC-cover_7b7d269a-45b5-4235-9dd4-b5991ee02556.jpg",
+    "cover_image_alt": "Dracula DARK REIGN Cover Art"
+  },
+  {
+    "id": "Dragonym",
+    "title": "Dragonym",
+    "link": "https://www.spacebot-interactive.com/dragonyhm",
+    "publishers": [
+      "SPACEBOT INTERACTIVE"
+    ],
+    "description": "For a number of years after the age-old conflict with dragons came to a head, the people of Archend have enjoyed an era of peace. All was well until the esteemed Yhmszindr, Kurtis, went missing, and the sealed dragons began to awaken.​",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "RPG",
+      "JRPG"
+    ],
+    "platforms": [
+      "ModRetro Chromatic",
+      "Game Boy Color",
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "The Mirror Between Us",
+    "title": "The Mirror Between Us",
+    "link": "https://filipe-bianchin.itch.io/the-mirror-between-us",
+    "publishers": [
+      "Filipe Bianchin"
+    ],
+    "description": "'When did it go wrong? I remember a time where everything was alright...'\n\n\nGuide this couple through the puzzles - Love may not have forsaken them yet...",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Fix My Heart",
+    "title": "Fix My Heart",
+    "link": "https://incube8games.com/en-eu/products/fix-my-heart-gbc",
+    "publishers": [
+      "Filipe Bianchin"
+    ],
+    "description": "Fix My Heart is a precision platformer with minimalistic graphics and a strong emphasis on speedrunning, ranked 16th out of 134 entries in the Game Boy Competition 2021.\n\nRun through a perilous cave as you try to fix your mechanical heart. The game offers challenging levels that will push your platforming abilities to the limit, leaving no room for errors. Are you up for the challenge?\n\nWith seven unique endings to unlock, you must decide your fate and confront the cave's deadly obstacles. For those seeking an even harder experience, the Remix mode introduces five new gameplay mechanics that will put your skills to the test.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer",
+      "Precision Platformer"
+    ],
+    "platforms": [
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Agent B",
+    "title": "Agent B",
+    "link": "https://filipe-bianchin.itch.io/agent-b",
+    "publishers": [
+      "Filipe Bianchin"
+    ],
+    "description": "TBD",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "1bit Game Collection",
+    "title": "1bit Game Collection",
+    "link": "https://filipe-bianchin.itch.io/1bitgamecollection",
+    "publishers": [
+      "Filipe Bianchin"
+    ],
+    "description": "TBD",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "TBD"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Black Castle 2",
+    "title": "Black Castle 2",
+    "link": "https://user0x7f.itch.io/black-castle-2",
+    "publishers": [
+      "User0x7f"
+    ],
+    "description": "Years ago, the knight Aric defeated the sinister warlock Malakar in the Black Castle. But the victory was deceptive: Malakar survived, hidden in the shadows, and gathered new powers. Now he is back and stronger than ever.\n\nWith a ritual, he wants to plunge the world into eternal night. He has chosen Lyra, Aric's sister, as his sacrifice. Aric swears revenge. With his old blade, he sets off once again for the Black Castle...",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "G-Zero World GP",
+    "title": "G-Zero World GP",
+    "link": "https://user0x7f.itch.io/g-zero-world-gp",
+    "publishers": [
+      "User0x7f"
+    ],
+    "description": "It is the year 2560. We were able to defend ourselves against an alien attack, but  also suffered great losses. To celebrate the day of victory, a race is held every 4 years, the G-ZERO World Grand Prix! Only the best pilots are allowed to compete in the race and never-ending glory awaits the winner...",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Gunship DX",
+    "title": "Gunship DX",
+    "link": "https://user0x7f.itch.io/gunship-dx-gbc",
+    "publishers": [
+      "User0x7f"
+    ],
+    "description": "Our nation is under attack by enemy forces and the defense can only succeed with the help of air ground support. The futur of our nation depends on you! Fight your way through five missions to repel the attack and restore peace.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Railway Shooter",
+      "Shooter"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Genesis 2",
+    "title": "Genesis 2",
+    "link": "https://user0x7f.itch.io/genesis-2",
+    "publishers": [
+      "User0x7f"
+    ],
+    "description": "When the evil AI GENESIS was defeated, a small part of the source code escaped and hid on an asteroid. Unnoticed, GENESIS gathered new energy and is now stronger than ever, ready to attack earth again and wipe out all live...",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Shmup"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Gunship",
+    "title": "Gunship",
+    "link": "https://user0x7f.itch.io/gunship",
+    "publishers": [
+      "User0x7f"
+    ],
+    "description": "Our nation is under attack by enemy forces and the defense can only succeed with the help of air ground support. The future of our nation depends on you! Fight your way through five missions to repel the attack and restore peace.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Railway Shooter",
+      "Shooter"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "G-Zero",
+    "title": "G-Zero",
+    "link": "https://user0x7f.itch.io/g-zero",
+    "publishers": [
+      "User0x7f"
+    ],
+    "description": "It is the year 2560. We were able to defend ourselves against an alien attack, but  also suffered great losses. To celebrate the day of victory, a race is held every 4 years, the G-ZERO Grand Prix! Only the best pilots are allowed to compete in the race and never-ending glory awaits the winner...\n\nG-ZERO is a simple, arcade like racing game for the Gameboy. It was inspired by a F-Zero pixelart demake from Miguel Sanchez. In each race you have to complete two laps. To win the G-ZERO Grand Prix, you must finish six races in first place.\n\nYour racer has a limited power, which decreases when you touch the track's rail or other drivers. If the power is used up, you can't continue and the race is lost.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Genesis",
+    "title": "Genesis",
+    "link": "https://incube8games.com/en-eu/products/genesis-gb",
+    "publishers": [
+      "User0x7f"
+    ],
+    "description": "The year is 2120, Earth has been attacked by an evil AI. One single fighter has broken through the ferocious siege, fight your way through hordes of enemies to reach the main processor of Genesis and destroy it. The future of mankind depends on you...\n\nFight your way through 4 action packed levels, collect shields, energy, and power-ups from enemy remains and test your agility to dodge enemy fire, to reach the boss fight at the end of each level.\n\nCan you overcome the evil invasion of GENESIS?",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Shmup"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Black Castle",
+    "title": "Black Castle",
+    "link": "https://user0x7f.itch.io/black-castle",
+    "publishers": [
+      "User0x7f"
+    ],
+    "description": "The times were dark and the kingdom was threatened by a black warlock. His evil magic brought disease and destruction to the land, but none of the king's knights found the courage to fight him. One day a young knight appeared. He set out for the warlock's black castle to free the kingdom from his tyranny.\n\nFight your way through four exciting levels, find secret passages, hidden items and defeat the black warlock.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "MICROGAMES Jam Pak",
+    "title": "MICROGAMES Jam Pak",
+    "link": "https://bownly.itch.io/microgames-jam-pak",
+    "publishers": [
+      "Bownly"
+    ],
+    "description": "TBD",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Microgames"
+    ],
+    "platforms": [
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "GB Jammers",
+    "title": "GB Jammers",
+    "link": "https://bownly.itch.io/gb-jammers",
+    "publishers": [
+      "Bownly"
+    ],
+    "description": "Let's be real, participating in a game jam can be a lot of work. Sometimes it's just easier to play a very loose simulation of a game jam instead. Collect game assets (in the form of cards), create your ideal tech stack (by building a deck), and [auto] battle your way through increasingly competitive game jams. Can you become the ultimate GB Jammer?",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Card Game"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Ningami 2",
+    "title": "Ningami 2",
+    "link": "https://bownly.itch.io/ningami-2",
+    "publishers": [
+      "Bownly"
+    ],
+    "description": "Ningami 2 is a deck builder board game with 4 unique characters to play as, and 3 different board types to play through. (Plus maybe even a secret 4th board type???) The game is honestly pretty self explanatory, but here are a few helpful tips for some not immediately obvious things:",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Card Game"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Double Dyad",
+    "title": "Double Dyad",
+    "link": "https://bownly.itch.io/double-dyad",
+    "publishers": [
+      "Bownly"
+    ],
+    "description": "Double Dyad is basically Triple Triad, but for the Gameboy. The deep lore has something to do with ghosts turning into robots or something. I dunno. You'll have to piece it together on your own--like Dark Souls. It's the Dark Souls of Triple Triad demakes on the Gameboy.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Card Game"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Analogue Pocket",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Logue",
+    "title": "Logue",
+    "link": "https://bownly.itch.io/logue",
+    "publishers": [
+      "Bownly"
+    ],
+    "description": "TBD",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Roguelike",
+      "RPG",
+      "JRPG"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Buddy Book Battle",
+    "title": "Buddy Book Battle",
+    "link": "https://bownly.itch.io/buddy-book-battle",
+    "publishers": [
+      "Bownly"
+    ],
+    "description": "I didn't have time to fit the story in the game, so here it is: there exists a magical race of beings called buddies. Through the use of spellbooks, they can use powerful magic. However, they can't actually read their own books. They have to partner up with a human who can read their book. Further, in order to draw out the full potential of each book, the buddy and human pair have to have a strong bond. And the best way to deepen their bonds is through combat.\n\nOne day, a buddy named Paige suggested to her group of friends that they should hold a friendly battle royale in order to increase the bonds with their partners and strengthen the group as a whole...\n\n(Yes, I stole this directly from Zatch Bell lol. Also, other than the player calling out commands during battle, the human partners aren't directly represented in the game. I didn't have the dev bandwidth for that. Small indie dev, please understand.)\n\n- Bownly",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "JRPG"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "GB Paint",
+    "title": "GB Paint",
+    "link": "https://bownly.itch.io/gb-paint",
+    "publishers": [
+      "Bownly"
+    ],
+    "description": "Draw up to 16 8x8 pictures using the full  range of the Gameboy's expansive 4 color palette. You can even save your creations using the battery save.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Art",
+      "Software"
+    ],
+    "platforms": [
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Tobu Tobu Bōzu",
+    "title": "Tobu Tobu Bōzu",
+    "link": "https://bownly.itch.io/tobu-tobu-bouzu",
+    "publishers": [
+      "Bownly"
+    ],
+    "description": "The year is Neo New Kyoto. Happiness is a rare commodity in this dreary cyberpunk dystopia. Faced with a ceaseless rain, it's up to a lone teru teru bōzu to ward off the downpour. The only method being to platform up to the top of the labyrinthian amalgamation of various buildings that mars the skyline, and hang from the tallest eaves in the city.\n\nCan the future be saved? No, of course not. But perhaps, by your actions, you can help to provide some much needed sunlight to the disheveled masses. Your mission--much like the lives of the struggling Neo New Kyotoites--will be short and difficult.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Ningami",
+    "title": "Ningami",
+    "link": "https://bownly.itch.io/ningami",
+    "publishers": [
+      "Bownly"
+    ],
+    "description": "Assume the role of a ninja undergoing the trial to become a ningami master. Craft your own unique deck, defeat origami foes, and master the ancient art of ningami.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "Card Game"
+    ],
+    "platforms": [
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Magipanels",
+    "title": "Magipanels",
+    "link": "https://incube8games.com/en-eu/products/magipanels-gb",
+    "publishers": [
+      "Bownly"
+    ],
+    "description": "Magipanels is a modern take on the match 3 genre that feels right at home on the Nintendo Game Boy. Manipulate panels on the grid one column or row at a time to form matches and earn a high score, while utilizing character specific abilities to radically alter the grid in your favour!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Kien",
+    "title": "Kien",
+    "link": "https://incube8games.com/en-eu/products/kien-gba",
+    "publishers": [
+      "Age Of Games"
+    ],
+    "description": "Discover the Secret of Kien! For 7,000 years the planet of Malkut has been wisely ruled by the 7 Masters of the Absolute. But chaos has been reborn as evil corrupts the Land of Harmony. The 7 Masters have vanished, mystical warriors were slaughtered, and the temples are doomed in blood. The only hope that remains is imprisoned in the hearts and wills of two young apprentices. Their fate is to fight evil, reveal the truth, and discover the secret of Kien.\n\nAn enthralling action platformer infused with RPG elements, immersing adventures in a captivating fantasy world of 23 intricate and demanding levels. With Gameplay that maintains a relentless pace, throwing players into the midst of frenetic action where they must confront a multitude of adversaries. The distinctive non-linear structure grants you the freedom to explore Kien's expansive world as you choose; Journey from one stage to the next, making every playthrough a unique and captivating adventure.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer",
+      "RPG"
+    ],
+    "platforms": [
+      "Game Boy Advance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Infinity",
+    "title": "Infinity",
+    "link": "https://incube8games.com/en-eu/products/infinity-gbc",
+    "publishers": [
+      "Incube8 Games"
+    ],
+    "description": "An ancient, nameless evil stirs beneath the earth, twisting the land and its people alike with its corrupting force. Two rival nations careen toward war, as a shadowy figure arms them both with unholy weapons of immense power. A disgraced knight is called upon to overcome the centuries-old pain that divides these peoples, his own grief, and the malevolent forces fanning the flames of hate. This epic tale frames a roleplaying game with a unique tactical battle system, 5 playable characters, a detailed world with over 30 explorable areas and more than 100 items, and beautiful 8-bit graphics — all to immerse you into the world of Infinity!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "RPG",
+      "Tactical RPG"
+    ],
+    "platforms": [
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical",
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "IndestructoTank!",
+    "title": "IndestructoTank!",
+    "link": "https://incube8games.com/en-eu/products/indestructotank-gb",
+    "publishers": [
+      "The EXP"
+    ],
+    "description": "The world faces an insurmountable danger that it has never seen before. In desperation, Earth calls on a hero, and Dirk Danger answers the call, manning the mighty IndestructoTank, an… indestructible bouncing tank? He may not be the hero they wanted, but he’s certainly the hero they need.\n\nIndestructoTank! is an arcade style game that seeks to bring the classic Flash game to your Game Boy, as you destructively bounce across helicopters, planes, and more, trying to score high combos and gather points to spend on upgrades. Hop into the IndestructoTank!, and get ready for a ride!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Arcade"
+    ],
+    "platforms": [
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Hidden Gems",
+    "title": "Hidden Gems",
+    "link": "https://incube8games.com/en-eu/products/hidden-gems-gbc-digital-edition",
+    "publishers": [
+      "Rebusmind"
+    ],
+    "description": "Hidden Gems is a strategic card game for the Game Boy and Game Boy Color that challenges you to outsmart an adaptive AI opponent in a battle of wits and strategy.\n\nFuse gem cards and place them on a 4x4 board to achieve the highest score. With just three basic card types, the game offers endless possibilities through clever fusions and tactical placement. Whether you’re a casual gamer or a seasoned strategist, Hidden Gems is easy to learn but hard to master.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Dango Dash",
+    "title": "Dango Dash",
+    "link": "https://incube8games.com/en-eu/products/dango-dash-gbc",
+    "publishers": [
+      "Rebusmind"
+    ],
+    "description": "Ever since an unknown calamity destroyed the world, people live on islands floating in a vast sea of clouds. In a small village on one of these islands lives a young boy called Dango, who tries to find his place in life.\n\nDango Dash is a platformer adventure game that combines fast-paced action with an engaging story about growing up and fighting for what you believe in. Help Dango in his quest to save his village and defeat the evil Hanami ninja clan threatening their peace.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Narcotiendita",
+    "title": "Narcotiendita",
+    "link": "https://carmelo-electronics.itch.io/narcotiendita",
+    "publishers": [
+      "Carmelo Electronics"
+    ],
+    "description": "A horror short story to read on your Game Boy.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "E-Book"
+    ],
+    "platforms": [
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Solarpunk 3077",
+    "title": "Solarpunk 3077",
+    "link": "https://carmelo-electronics.itch.io/solarpunk-3077",
+    "publishers": [
+      "Carmelo Electronics"
+    ],
+    "description": "In the Year 3077, civilization survived a climate catastrophe by living in a controlled city-state called Solaris.\n\n The city and its surroundings live in harmony with nature, although under constant threat by the malicious Gray Goo, a gigantic mass of nanomachines that multiply by eating everything in their way.\n\nTrixy, a cadet of an elite group of pilots called the Sentinels, will keep Solaris and the planet safe from the Gray Goo!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Shmup"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Pine Creek",
+    "title": "Pine Creek",
+    "link": "https://carmelo-electronics.itch.io/pine-creek",
+    "publishers": [
+      "Carmelo Electronics"
+    ],
+    "description": "The disappearance of a young girl in the previously quiet small town of Pine Creek raises the popular belief that a cult is behind the crime and many other ritual killings before her. \n\nHer best friend will do his best to solve why, how, and who is behind it.\n\n\nPINE CREEK is an adventure game focused on exploration, story, and following clues. Have friends, think about life, think about death, eat tasty food, and play games in the arcade!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "Mystery"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English",
+      "Spanish",
+      "Brazilian Portuguese"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Slowly Fading into Data",
+    "title": "Slowly Fading into Data",
+    "link": "https://albert-data.com/products/artist-edition-limited-slowly-fading-into-data",
+    "publishers": [
+      "Albert.DATA"
+    ],
+    "description": "\"Slowly Fading into Data\" is an experimental narrative-driven, interactive-storytelling, action-adventure game (and a retro-synth!).\n\nA contemplative story of a human, slowly mutating into data. A transformative journey about the meaning of being human, the boundaries of experience, existence and identity.\n\nIt is designed to be played more than once to discover all its hidden secrets, choices, easter eggs, and alternative endings. An intense cinematographic audiovisual experience that pushes your 8-bit perception and puts into test your exploration and philosophical skills.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Interactive Storytelling",
+      "Action-Adventure"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical",
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "The Mayor of Sanctuary",
+    "title": "The Mayor of Sanctuary",
+    "link": "https://naramakesgames.itch.io/the-mayor-of-sanctuary",
+    "publishers": [
+      "NaraMakesGames"
+    ],
+    "description": "As Yuu, the former mayor of Anzen, you had hoped for a quiet retirement away from the hustle of civic life. However, the peace you sought is shattered when a wave of cursed spirits begin to emerge from the once tranquil forests of Sanctuary. It is now up to you to return to Anzen and connect with its inhabitants to unravel the mysteries behind the unrest.\n\nWill you be able to uncover the sinister forces that lie beneath and restore harmony to Anzen? \n\nEmbark on a journey of casual exploration through a large unique map, brimming with charming characters and captivating scenery. This leisurely experience offers mild combat, light puzzles, and hidden secrets waiting to be discovered.\n\nIT IS ADVISED NOT TO BUY THE PHYSICAL RELEASE",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Exploration",
+      "Adventure"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "The Year After",
+    "title": "The Year After",
+    "link": "https://anv.itch.io/the-year-after",
+    "publishers": [
+      "Hadrian Lin"
+    ],
+    "description": "An emotional Gameboy experience about an invisible stranger, a family and a brutal winter. Walk through time. Seasons pass. Characters age.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Visual Novel"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Bridget Bishop",
+    "title": "Bridget Bishop",
+    "link": "https://www.youtube.com/watch?v=wIpdSe1gwWg",
+    "publishers": [
+      "Fran Matsusaka"
+    ],
+    "description": "TBD",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Puzzle"
+    ],
+    "platforms": [
+      "Sega Saturn"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Wing Warriors",
+    "title": "Wing Warriors",
+    "link": "https://incube8games.com/en-eu/products/wing-warriors-gbc",
+    "publishers": [
+      "Fran Matsusaka"
+    ],
+    "description": "Wing Warriors is a fast paced shoot ‘em up, featuring three playable characters that promote different strategies as you try to conquer the game’s six stages and three boss battles. The game also features a score saving feature, and is playable in English, French, and Spanish.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Shmup"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Spanish"
+    ],
+    "release": [
+      "Physical",
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Zephyr's Pass",
+    "title": "Zephyr's Pass",
+    "link": "https://crtogrphr.com/zephyrspass/",
+    "publishers": [
+      "CRTOGRPHR"
+    ],
+    "description": "Zephyr's Pass is a captivating, narrative-driven action-adventure game designed specifically for the GBC.\n\nSet in a land tormented by destructive winds, the game's inhabitants are forced to live in canyons and travel via low-flying airships.\n\nThe story follows a young hero, Abel, who joins forces with a band of pirates to defeat Thane, a man striving to become the Wind God. To accomplish this, Abel must locate ancient pieces of armor, each granting him new abilities and the strength to save his land.\n\nThe game features rich, detailed visuals that surpass many other titles on the system, both homebrew, and official release. It offers challenging puzzles that vary up the dungeons you will explore, each featuring a unique mechanic to test the player.\n\nThe game's creators aim to provide an experience akin to the many great official releases for the GBC.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Action-Adventure"
+    ],
+    "platforms": [
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Hellbreaker",
+    "title": "Hellbreaker",
+    "link": "https://technofantasy.itch.io/hellbreaker",
+    "publishers": [
+      "Technofantasy"
+    ],
+    "description": "Pre-release alpha demo of Hell Breaker, a new puzzle game for the Game Boy Color.\n        \n        Every century since the dawn of man a battle has taken place between Heaven and Hell over the souls that get lost between the realms. Each side nominates an angel to fight and the winner collects these souls for their side. \n\nIn this, our year 20XX, dark angel Lilith enters the puzzle arena to battle light angel Muriel for the title of Hell Breaker.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Opossum Country",
+    "title": "Opossum Country",
+    "link": "https://benjelter.itch.io/opossum-country",
+    "publishers": [
+      "BenJelter"
+    ],
+    "description": "A story-driven horror game for Game Boy. Investigate a suspicious trailer park and uncover its secret horrors.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Horror",
+      "Adventure"
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Decline",
+    "title": "Decline",
+    "link": "https://benjelter.itch.io/decline",
+    "publishers": [
+      "BenJelter"
+    ],
+    "description": "A story-driven horror game for Game Boy. Investigate a teacher's murder and deal with the effects of old age. The game features multiple endings based on decisions you make along the way.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Horror",
+      "Adventure"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "The Last Employee DX",
+    "title": "The Last Employee DX",
+    "link": "https://benjelter.itch.io/the-last-employee",
+    "publishers": [
+      "BenJelter"
+    ],
+    "description": "A quick game that I made over the weekend for Mini Jam 42: SNOW\n\nThe constraint for the game was that it could use no more than two colors. I also made it in two days so it's a very binary game!\n- BenJelter",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Visual Novel"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Game Boy color test utility",
+    "title": "Game Boy color test utility",
+    "link": "https://benjelter.itch.io/game-boy-color-test",
+    "publishers": [
+      "BenJelter"
+    ],
+    "description": "I am providing a browser version as a demo but the real purpose is to put this palette editor on a Game Boy and test colors there to ensure that your palettes will work well. \n\nThis utility can give you the rgb values to type into GB Studio's palette editor when you get a palette you like and it can even output a number for the color that can be used with Mico27's set palette color plug-in: https://github.com/Mico27/gbs-setPaletteColorPlugin",
+    "players": null,
+    "rating": null,
+    "genres": [
+      "Software",
+      "Development Tool"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "None"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "The Machine",
+    "title": "The Machine",
+    "link": "https://incube8games.com/en-eu/products/the-machine-gbc",
+    "publishers": [
+      "BenJelter"
+    ],
+    "description": "The Machine is a game about a little guy named Girt. Girt lives in the machine. The machine isn't perfect but it's the only thing Girt knows. Girt can choose any career he wants... as long as he has good enough test scores! By the way, Girt forgot to study for his tests. Good luck! :)\n\nThe Machine is a non-linear adventure where you can get different jobs, meet new characters, and try to survive inside the machine. As you progress along different career paths you can learn more about the world and unlock new careers by scoring higher on the test the next time you play. Your choices affect the direction the machine's society goes. If you rise through the ranks you can change the course of the machine's history.\n\nI am calling the genre a 'pancake adventure' because the story tree is an experimental format where it is short but very wide so that on subsequent play-throughs things can be totally different. If you play through the demo a couple of times and make different decision you will start to see the flexibility of the story!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Pancake Adventure"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical",
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Metamorphosis Collection",
+    "title": "Metamorphosis Collection",
+    "link": "https://incube8games.com/en-eu/products/metamorphosis-collection-gbc",
+    "publishers": [
+      "BenJelter"
+    ],
+    "description": "The Metamorphosis Collection contains three original horror games, linked together by the theme of transformation. Explore the depths of human psychology with these stories crafted by the award-winning game designer Ben Jelter.\n\nJust be careful… as you play, you may find yourself transformed as well!\n\nIn Opossum Country, you play as a food delivery guy who needs to make a delivery at a trailer park. What seems like another day at work quickly unravels. Can he complete his delivery or will his curiosity lead to his ultimate demise?\n\nIn Decline, you play as an elderly police detective on the verge of retirement. Wrestling with cognitive decline, she attempts to solve the seemingly simple case. Though, things may not be as they seem as rumors spread about something called the ‘Glitch Witch’…\n\nIn Specimen 134, you play as a regular kid named Jason who starts to notice some very unusual things going on in his town. His friend David asks him if he wants to explore the woods but he might not like what he finds there…",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Horror",
+      "Adventure"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical",
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "First Contact Protocol",
+    "title": "First Contact Protocol",
+    "link": "https://modretro.com/products/first-contact-protocol",
+    "publishers": [
+      "BenJelter"
+    ],
+    "description": "First Contact Protocol (FCP) is a story about encountering alien life. It takes place on a monitor vessel that is tasked with ensuring the safety of a large interstellar spaceship called the Dia Modrona.\n\nFCP is a story-driven adventure game. It features various environmental puzzles and a nonlinear story. By interacting with the puzzles and the crew in various ways, you can change the fate of the ship! The crew has different motivations that keep things interesting. You will have to interact with the ship's systems to get to one of the many endings.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Puzzle"
+    ],
+    "platforms": [
+      "ModRetro Chromatic",
+      "Game Boy",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "OrmBlok",
+    "title": "OrmBlok",
+    "link": "https://benjelter.itch.io/ormblok",
+    "publishers": [
+      "BenJelter",
+      "Technofantasy"
+    ],
+    "description": "Ormblok is an arcade style falling block game with a twist. Use your blocks to create pellets in the playfield and then use the worm to eat the pellets! \n\nEach round the target goal increases dramatically. Can you make it to round 9? \n\nThe game focuses on risk/reward with the things that can earn you the most points also being the riskiest things to try to do. You can learn optimal strategies for playing the game and get scores that are exponentially higher.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "UNEARTHED 2024 EDITION",
+    "title": "UNEARTHED 2024 EDITION",
+    "link": "https://benjelter.itch.io/unearthed",
+    "publishers": [
+      "BenJelter"
+    ],
+    "description": "Set in a future where humanity has all but depleted Earth's resources, UNEARTHED invites you on an interstellar journey with Max - a husband, father and employee of the off-planet mining corporate juggernaut 'Deep Space Mineral Retrieval'. Pilot your DSMR issued Mech to delve into the depths of planets, navigate perilous caverns and solve a multitude of puzzles to retrieve your quota of mineral resources and provide for your loving family back on Earth.\n\nThough Max is just your average blue collar worker, he'll uncover much more than mineral deposits during this year's contracted expedition. Prepare to embark on a sci-fi adventure where every dig brings you closer to uncovering the truth buried under alien soil. What secrets are waiting to be UNEARTHED?",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Sci-Fi",
+      "Puzzle"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Game Boy Color",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital",
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Super Jacked Up Tomato Face Johnson",
+    "title": "Super Jacked Up Tomato Face Johnson",
+    "link": "https://gumpyfunction.itch.io/super-jacked-up-tomato-face-johnson",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "Super Jacked Up Tomato Face Johnson is a fast paced twitch platformer made for the Game Boy Color. There's a new protein shake fresh on the shelves and Tomato Face Johnson needs to bulk up! It's on the pricey side of course, but luckily, it's on sale for a limited time...\n\nTime to get speedy!\n\nCollect all the coins to complete levels. Complete levels super fast and you will earn enough stars to progress to the next world.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "The Ungrateful Son",
+    "title": "The Ungrateful Son",
+    "link": "https://gumpyfunction.itch.io/the-ungrateful-son",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "Back in January of 2022, Robert Dorman released a video on Art Carts. He asked the question \"What would a book look like on a Game Boy\". I was inspired by this thought and the end result is this - \"The Ungrateful Son\" by the Brothers Grimm, adapted for the Game Boy.\n\nThe Game Boy itself has a form factor similar to a small book, and I was interested in seeing how I could present long strings of text in a way that wasn't difficult to comprehend. I was drawn to the Brother's Grimm fairy tales when deciding what to create. The stories are reasonably short which suits the handheld and they allow for illustrations which serve to break up the text and offer a moment to rest between reading. They also contain themes and imagery that will excite children while still engaging adults. This was important to me because the Game Boy is a console that has been enjoyed by all ages since its release and I felt it's important to make sure the story caters to that same wide demographic.\n\nThe story is intended for use with the Game Boy (download the ROM below and flash to a cart or similar) or the Analogue Pocket (.pocket file available to download below).\n\nI hope you enjoy The Ungrateful Son,\n- Tom (Gumpy Function)",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Art",
+      "E-Book"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Analogue Pocket",
+      "Browser"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Dicee!",
+    "title": "Dicee!",
+    "link": "https://gumpyfunction.itch.io/dicee",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "Dicee! is dice puzzle game for the Game Boy and Game Boy Color.",
+    "players": "1-2",
+    "rating": null,
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "CAPPIMON",
+    "title": "CAPPIMON",
+    "link": "https://gumpyfunction.itch.io/cappimon",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "CAPPIMON is an RPG/Platformer hybrid for the Game Boy Color. Inspired by but antithetical to the Pokemon series, this is a very short proof of concept demo for the game.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer",
+      "RPG"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Knit-Wit",
+    "title": "Knit-Wit",
+    "link": "https://gumpyfunction.itch.io/knit-wit",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "Knit-Wit is a push block puzzle game in the style of Nintendo's Game Boy Color.\n\nPuzzle your way through 15 levels as you find enough wool to knit each of your family members a warm jumper and stave off the winter chills.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "CUPID",
+    "title": "CUPID",
+    "link": "https://gumpyfunction.itch.io/cupid",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "Something or someone has broken the Heart, a magical relic that stitches all things together. Without it, the universe will slowly unravel and everything will fall into darkness. Play as a cute little Cupid, tasked with mending the broken Heart. Do your best to spread love and happiness to all that you meet and prevent the darkness from taking hold!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Super Dassalo Land",
+    "title": "Super Dassalo Land",
+    "link": "https://gumpyfunction.itch.io/super-dassalo-land",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "Tommy Dassalo is busily preparing for the cultural event of the millennium: the taping of his stand-up comedy special ‘SCAM ARTIST’. All of a sudden, Jiko, an evil phantom, appears and traps him inside the pages of his notebook! \n\nNow it’s up to Tommy and his crusty little yappy dog Kewpie to travel across three worlds, piecing together his stand-up material and using his microphone whip, ground pound and wall jump to defeat Jiko’s minions and save comedy! \n\nPLEASE NOTE: Super Dassalo Land features crude humour and may not be suitable for kids.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Feed IT Souls: DUAL",
+    "title": "Feed IT Souls: DUAL",
+    "link": "https://gumpyfunction.itch.io/feed-it-souls-dual",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "Feed IT Souls: Dual is a fighting game for the Game Boy Color, designed for two players sharing one console.",
+    "players": "2",
+    "rating": null,
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Feed IT Souls: DOME Edition",
+    "title": "Feed IT Souls: DOME Edition",
+    "link": "https://gumpyfunction.itch.io/feed-it-souls-dome-edition",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "You are the offspring of IT, a bio-technological monstrosity after only one thing - delicious souls! Seek out and retrieve souls to feed your master. His power is your power. Every soul retrieved will enhance your mobility as you explore your surroundings.\n        \n        Feed IT Souls: Department Of Martian Efficiency Edition is an anti-X, anti-Musk, all-round anti-Techno Feudalist metroidvania for the Game Boy Color and remake of the GB Compo 23 game jam version from top to bottom.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Metroidvania"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Feed IT Souls",
+    "title": "Feed IT Souls",
+    "link": "https://gumpyfunction.itch.io/feed-it-souls",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "You are the offspring of IT, a bio-technological monstrosity after only one thing - delicious souls! Seek out and retrieve souls to feed your master. His power is your power, and every soul retrieved will enhance your mobility as you explore your surroundings",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Metroidvania"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Virtual BMO",
+    "title": "Virtual BMO",
+    "link": "https://gumpyfunction.itch.io/virtual-bmo",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "Turn your Game Boy or Analogue Pocket into Adventure Time's lovable walking handheld console with Virtual BMO!\n\nI made this for my daughter and thought I would share with any of the Adventure Time fans out there. Just place the downloadable Game Boy ROM  onto a writable Game Boy cartridge or similar or download the .pocket file for Analogue Pocket users and you're away! Or, if you just want to have a look, play here in the browser.\n\nChange Beemo's expression at will or browse his desktop to find all sorts of surprises. There is now a playable game to be found on the desktop too!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Software",
+      "Platformer"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Lee Carvallo's Putting Challenge II",
+    "title": "Lee Carvallo's Putting Challenge II",
+    "link": "https://gumpyfunction.itch.io/lee-carvallos-putting-challenge-2",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "Hi-D-Ho Gamerinos!  \n\nAndré & Wally Productions present Lee Carvallo's Putting Challenge 2, a sequel to the wholly unsuccessful, critically panned golfing simulator released back in 1995. \n\nIn this Point & Click Adventure, you play as Lee Carvallo. Puzzle your way through a series of events in his life. Sleep where he sleeps, eat what he eats, golf where he golfs!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Point & Click"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "My Dinner with André",
+    "title": "My Dinner with André",
+    "link": "https://gumpyfunction.itch.io/my-dinner-with-andre",
+    "publishers": [
+      "Gumpy Function"
+    ],
+    "description": "Hi-D-Ho Gamerinos!\n\nMy Dinner with André is a Simpsons Fan Game inspired by the Noise Land Video Arcade game featured in the episode 'Boy Scoutz 'n the Hood' from Season 5.\n\nJoin actors André Gregory and Wallace Shawn at the dinner table as they discuss the important matters of life. Choose from three separate retorts as you progress through an approximately 10 minute long discussion created in the spirit of Louis Malle's 1981 comedy film of the same name.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Visual Novel"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "DVD-Logo Screensaver",
+    "title": "DVD-Logo Screensaver",
+    "link": "https://pearacidic.itch.io/dvd-logo-version-2",
+    "publishers": [
+      "Pearacidic Games"
+    ],
+    "description": "Relive the glory days of boring meeting rooms of yesteryear with\nthe DVD logo Screensaver - now for Game Boy!\nYou'll be the envy of everyone in your cubicle pod!*\nFlash it on a cart, or experience the nostalgia in your favorite emulator!\n\n*Your cubicle pod may not have envious people, or any other people, in which case, this would be an untrue statement.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Software"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Game Boy Color",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "None"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Monster Orc-Arina",
+    "title": "Monster Orc-Arina",
+    "link": "https://pearacidic.itch.io/monster-orc-arina-a-game-boy-tool",
+    "publishers": [
+      "Pearacidic Games"
+    ],
+    "description": "A pick-up-and-play instrument is hard to come by on the Game Boy™, as most music carts are complex DAW-type systems with many options. Monster Orc-arina means to remedy that by giving anyone the ability to create music and have some fun in the process. \n\nSince the built-in note indicator shows you the note you are about to or are currently playing, it can also be useful to mock up melodies to then translate to hUGETracker or GBT Player.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Music",
+      "Software"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Game Boy Color",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Knucklebones",
+    "title": "Knucklebones",
+    "link": "https://pearacidic.itch.io/knucklebones",
+    "publishers": [
+      "Pearacidic Games"
+    ],
+    "description": "Rules \n\nEach player takes their turn rolling the die and selecting a column to place it. If the die matches any dice on the other side, they are removed and their points are removed from that player's score. \n\nThe game ends when either side fills up with dice. The winner is determined by total points on their side of the board. If both scores match, the game ends in a Tie.\nPoints\n\nPoints are accumulated by placing and creating combos in a column. Each die is worth its face value. Combos are worth the total value of the dice times the size of the combo.",
+    "players": "2",
+    "rating": null,
+    "genres": [
+      "Turn-Based",
+      "Strategy",
+      "Board Game"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Little Nemo: The Slumberland Hero DEMO",
+    "title": "Little Nemo: The Slumberland Hero DEMO",
+    "link": "https://pearacidic.itch.io/little-nemo-the-slumberland-hero",
+    "publishers": [
+      "Pearacidic Games"
+    ],
+    "description": "When Nemo's friend Flip discovers the true power of dreams, his mischievous side gets the best of him and he puts his trust in a mysterious force to give him more power. Soon, Flip wields and quickly loses control of this magic, letting it out into the dream world, twisting good dreams and turning them into nightmares.\n\nJoin Nemo as he returns to Slumberland to put an end to nightmares once and for all with the help of the Morning Star, the scepter entrusted to him by King Morpheus, and other dream-made weapons of power. Experience the joy of playing through whimsical levels such as the Sugar Surplus, where candy and treats come to life, and many more! \n\nDefeat the nightmares, return Slumberland to peace and happiness once more, and prove yourself as the Slumberland hero!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "Platformer",
+      "Bullet Hell",
+      "Shmup"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Grimace's Birthday",
+    "title": "Grimace's Birthday",
+    "link": "https://modretro.com/products/grimaces-birthday",
+    "publishers": [
+      "krool toys",
+      "Gumpy Function",
+      "Pearacidic Games"
+    ],
+    "description": "In Grimace's Birthday, Grimace throws his birthday party at McDonald's, but some of his best McDonaldland friends — Birdie the Early Bird, the Hamburglar, and the McNugget Buddies — are missing! With only 30 minutes to spare, Grimace needs to find them before it's too late!\n\nHelp Grimace find his missing friends in time to blow the candles out, and collect enough birthday shakes for his guests along the way. Immerse yourself in Grimace’s world as he races around classic McDonald’s birthday scenes to find his pals all in a quest to save his birthday!",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "TBD"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Tempus Gear DEMO",
+    "title": "Tempus Gear DEMO",
+    "link": "https://pearacidic.itch.io/tempus-gear",
+    "publishers": [
+      "Pearacidic Games"
+    ],
+    "description": "In Tempus Gear, you play Jupiter Cogswell, a mechanic and the owner of the Gilded Gear repair shop. Explore and uncover the mystery of a stolen keepsake, an underground conspiracy, and what may be the end of the world as we know it. Jump into the action and solve puzzles to reveal the truth behind the steam-fueled city of Ignis Cadere.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Steampunk"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "In The Dark 2",
+    "title": "In The Dark 2",
+    "link": "https://modretro.com/products/in-the-dark-2",
+    "publishers": [
+      "Gumpy Function",
+      "Pearacidic Games"
+    ],
+    "description": "A deadly virus is corrupting the Federation’s neural network, threatening to isolate the galaxy. As Captain Ikalo Pann, follow cryptic clues, solve intricate puzzles, and explore alien worlds to stop the spread and uncover a deep sci-fi mystery.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Game Boy Color",
+      "ModRetro Chromatic"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical",
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "In The Dark",
+    "title": "In The Dark",
+    "link": "https://pearacidic.itch.io/in-the-dark",
+    "publishers": [
+      "Gumpy Function",
+      "Pearacidic Games"
+    ],
+    "description": "It was a simple mission: Investigate an unidentified distress signal from a cruiser-class ship orbiting a barren planet in the Rigel system. Ikalo Pann, the Captain of the Star Leviathan, navigated through the debris surrounding the derelict ship until it was within scanner range. A scan of the ship pinged with no purchase for organics, life support systems were still functional, but losing power.\n\nWith no signs of life coming from the vessel, they feared the worst but proceeded to dock with the airlock and climb aboard. Upon entering the main deck, they noticed the warped sound of a klaxon going off, echoing down the halls. Ikalo signaled to her crew to follow her further into the ship towards the living quarters. As they entered the next room, the warning alarm suddenly stopped and the doors behind them shut tight, followed by the grinding gears of a locking mechanism.\n\nThe display on a monitor in the middle of the room came to life, a cursor pulsed rhythmically, illuminating the Captain's surroundings with a soft neon green glow. Suddenly, a pattern of lights animated on the monitor, and as they came to rest, a puzzle appeared over the on-screen grid. It was clear that this was all tied to the ship. They had fallen into a trap! There was only one hope - solve the puzzles to bypass the locks... and as the power continued to drain from what little remained of the backup power and life support systems, it was only a matter of time before they succumbed to their fate.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Tales of Monsterland DX",
+    "title": "Tales of Monsterland DX",
+    "link": "https://modretro.com/products/tales-of-monsterland-dx/",
+    "publishers": [
+      "Joel J Games"
+    ],
+    "description": "Save a village besieged by monsters by uncovering their origin. Run, jump, and battle through a magical world while gaining new abilities. Inspired by classic 8-bit platformers, it’s a fast-paced adventure with charm and challenge.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Game Boy Color",
+      "ModRetro Chromatic"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Tales of Monsterland",
+    "title": "Tales of Monsterland",
+    "link": "https://joelj.itch.io/talesofmonsterland/",
+    "publishers": [
+      "Joel J Games"
+    ],
+    "description": "Save a village besieged by monsters by uncovering their origin. Run, jump, and battle through a magical world while gaining new abilities. Inspired by classic 8-bit platformers, it’s a fast-paced adventure with charm and challenge.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Game Boy",
+      "Browser",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical",
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Neon Nova",
+    "title": "Neon Nova",
+    "link": "https://playinstinct.itch.io/neon-nova",
+    "publishers": [
+      "playinstinct"
+    ],
+    "description": "TBD",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Driving"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Legacy of Verintia",
+    "title": "Legacy of Verintia",
+    "link": "https://playinstinct.itch.io/verintia",
+    "publishers": [
+      "playinstinct"
+    ],
+    "description": "Welcome to Verintia!\n\nLegacy of Verintia is an open-world fantasy RPG for the original Game Boy developed in 2023. The game lets players choose their own path. As you can earn experience points from every meaningful action, you can make progress in whichever way you want – help the local townsfolk, hunt monsters and sell their materials, collect and sell ingredients, help out on a farm, go fishing or play a card game at the local pub.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "RPG",
+      "Fantasy"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Ghost of the Arcade",
+    "title": "Ghost of the Arcade",
+    "link": "https://playinstinct.itch.io/ghost-of-the-arcade",
+    "publishers": [
+      "playinstinct"
+    ],
+    "description": "- 5 different monster-related arcade games\n- A story full of dark humor and gaming references\n- 32 collectible figures to get from a gacha machine\n- Arcade Mode: Just play the arcade games without the story",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "TBD"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Capybara Village",
+    "title": "Capybara Village",
+    "link": "https://playinstinct.itch.io/capybara-village",
+    "publishers": [
+      "playinstinct"
+    ],
+    "description": "- Enjoy the serene Capybara Village\n- Go on explorations to find items\n- Sell items to local shops\n- Buy / find new costumes for your capybara\n- Buy / find new furniture for your home",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "TBD"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "MY FRIENDLY LITTLE ISLAND DELUXE",
+    "title": "MY FRIENDLY LITTLE ISLAND DELUXE",
+    "link": "https://playinstinct.itch.io/my-friendly-little-island",
+    "publishers": [
+      "playinstinct"
+    ],
+    "description": "My Friendly Little Island Deluxe is a cute game about personal growth and making friends. It starts out as a slow, simplistic adventure game. However, with every new skill you unlock, the game’s dynamics change more and more into a fast-paced platformer.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Adventure",
+      "Platformer"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Buck and the Cursed Cartridge",
+    "title": "Buck and the Cursed Cartridge",
+    "link": "https://modretro.com/products/buck",
+    "publishers": [
+      "playinstinct"
+    ],
+    "description": "When Buck, a die-hard retro gamer, buys a mysterious cartridge labeled “DEFINITELY NOT A CURSED CARTRIDGE” from his local GameStop, things go sideways fast. The moment he pops it into his Chromatic, he’s sucked through the screen and trapped inside the game! To escape, Buck must battle through pixelated worlds, outsmart glitchy bosses, and uncover who—or what—is pulling the strings. With help from a rogue hacker, hidden cheats, and his trusty blaster, Buck’s only way out is to beat the game itself.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "ModRetro Chromatic",
+      "Game Boy Color"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Physical"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Doomslinger Dungeon",
+    "title": "Doomslinger Dungeon",
+    "link": "https://playinstinct.itch.io/doomslinger-dungeon",
+    "publishers": [
+      "playinstinct"
+    ],
+    "description": "Play as the Doomslinger, a mysterious gunslinger. Venture into a creepy dungeon and defeat all kinds of spooky monsters like ghosts, zombies and pumpkin monsters.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "First-Person Shooter",
+      "Dungeon Crawler",
+      "Roguelite"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Press \"A\" to Get Up",
+    "title": "Press \"A\" to Get Up",
+    "link": "https://cambroth.itch.io/press-a-to-get-up",
+    "publishers": [
+      "Cambroth"
+    ],
+    "description": "It's, uhh.... It's about Executive Dysfunction.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "TBD"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "The Death of Me",
+    "title": "The Death of Me",
+    "link": "https://cambroth.itch.io/the-death-of-me",
+    "publishers": [
+      "Cambroth"
+    ],
+    "description": "Step into the shoes of an unlucky chronic illness patient in \"The Death of Me\": A medical-horror inspired by real life experiences battling the complexities of day-to-day life with mental and physical illnesses.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "TBD"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Bat-Son's Nightmare Demo",
+    "title": "Bat-Son's Nightmare Demo",
+    "link": "https://icecoldblood.itch.io/bat-sons-nightmare-demo",
+    "publishers": [
+      "Ice.Cold.Blood"
+    ],
+    "description": "Bat-Son is finally getting his own game! What? Nobody asked for that? Well... here it is anyway.\n\nPrepare to explore a dungeon where danger isn't just a probability - it's a guarantee. Can you navigate Bat-Son to safety and unlock the final gate, or will you succumb to death time and time again, forever leaving the mysteries of the nightmare unsolved?",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Platformer"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Batty Zabella 2 XOXO XMAS",
+    "title": "Batty Zabella 2 XOXO XMAS",
+    "link": "https://icecoldblood.itch.io/batty-zabella-2-x",
+    "publishers": [
+      "Ice.Cold.Blood"
+    ],
+    "description": "Batty's back for a Christmas-themed adventure! Don't expect a typical holiday season, though - there are still plenty of creepy, crawly things lurking in her home.\n\nExplore Batty's home using the arrow keys. Important items will often be displayed with a sparkle effect. Depending on the context, players may need to press up or down to interact with objects in a scene.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Point & Click",
+      "Adventure"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket",
+      "3DS"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Batty Zabella",
+    "title": "Batty Zabella",
+    "link": "https://icecoldblood.itch.io/batty-zabella",
+    "publishers": [
+      "Ice.Cold.Blood"
+    ],
+    "description": "Batty Zabella is a point-and-click horror comedy designed to push the limits of outdated hardware, and provide a compelling experience even by 2022 standards.\n\nIt also marks the debut of a new horror icon; Batty Zabella! Help save her family and rid her home of phantoms. She may give you sass while doing it, but you'll love it.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Point & Click",
+      "Adventure"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket",
+      "3DS"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "Soul Void",
+    "title": "Soul Void",
+    "link": "https://kadabura.itch.io/soul-void",
+    "publishers": [
+      "Kadabura"
+    ],
+    "description": "Soul Void is a short, 1-3 hour experience made in the style of a gameboy-era game. Explore the odd landscapes of the void, help lost souls you find along the way, and face your inner demons as you attempt to find a way home.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Interactive Storytelling"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": []
+  },
+  {
+    "id": "He Fucked The Girl Out of Me",
+    "title": "He Fucked The Girl Out of Me",
+    "link": "https://taylormccue.itch.io/trauma",
+    "publishers": [
+      "Taylor McCue"
+    ],
+    "description": "A game about sex work and trauma.",
+    "players": "1",
+    "rating": null,
+    "genres": [
+      "Visual Novel",
+      "Art"
+    ],
+    "platforms": [
+      "Browser",
+      "Game Boy",
+      "Analogue Pocket"
+    ],
+    "languages": [
+      "English",
+      "Japanese",
+      "Spanish",
+      "French",
+      "Turkish",
+      "Brazilian Portuguese"
+    ],
+    "release": [
+      "Digital"
+    ],
+    "opinions": [
+      {
+        "author": "Viv Slakes",
+        "body": "The developer uses this game to tell a very difficult, personal story. The game can be quite hard to stomach and the trigger warnings the game provides should not be ignored."
+      }
+    ]
+  }
+]

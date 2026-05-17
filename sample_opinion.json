@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Full Game Title Here",
+    "publisher": "Developer Name",
+    "opinions": [
+      { "author": "Your Name", "body": "Your opinion of the game goes here." },
+      { "author": "Another Contributor", "body": "Their opinion of the game goes here." }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Full Game Title Here",
+    "link": "https://example.com/game",
+    "publishers": ["Developer Name"],
+    "description": "A short description of the game goes here.",
+    "players": "1",
+    "genres": ["Platformer", "Adventure"],
+    "platforms": ["Browser", "Game Boy", "Analogue Pocket"],
+    "languages": ["English"],
+    "release": ["Digital", "Physical"],
+    "opinions": [
+      {
+        "author": "Your Name",
+        "body": "Your opinion of the game goes here. Write as much or as little as you like."
+      }
+    ],
+    "cover_image": "",
+    "cover_image_alt": ""
+  }
+]
